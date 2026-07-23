@@ -28,10 +28,10 @@ jobs:
       - name: Run Main Script
         run: python main.py
 
-      - name: Commit and Push Generated Posters
+      - name: Commit and Push Generated Files
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add bing_posters/
-          git commit -m "Auto-generated posters from M3U" || exit 0
+          git add bing_posters/ playlist.json
+          git commit -m "Auto-generated posters and playlist.json" || exit 0
           git push
