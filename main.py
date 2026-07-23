@@ -1,4 +1,5 @@
-Import requests
+
+import requests
 import os
 import re
 from io import BytesIO
@@ -9,12 +10,12 @@ except ImportError:
     PILLOW_INSTALLED = False
     print("[!] ERROR: 'Pillow' library is not installed. Run 'pip install Pillow'")
 
-BING_JSON_URL = "https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.json"
+# M3U ফাইলের ইউআরএল
+M3U_URL = "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
 OUTPUT_DIR = "bing_posters" 
 DEFAULT_CUSTOM_LOGO = "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
 MAX_IMAGE_SIZE_KB = 100
 
-# আপনার দেওয়া স্পোর্টস ক্যাটাগরির ডিফল্ট লোগো লিস্ট
 DEFAULT_LOGOS = {
     "mma": "https://w7.pngwing.com/pngs/714/436/png-transparent-mma-logo-ultimate-fighting-championship-mixed-martial-arts-combat-bellator-mma-knockout-mma-hd-text-logo-monochrome-thumbnail.png",
     "auto racing": "https://thumbs.dreamstime.com/b/car-racing-logo-vector-icon-design-graphic-digital-print-media-modern-minimalist-featuring-clean-lines-bold-shapes-351924713.jpg",
@@ -29,27 +30,23 @@ DEFAULT_LOGOS = {
     "other": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKx6oe6c7zzkeW4LWj8PFa9CZML4vlrJSY8fwqamguug&s=10"
 }
 
-# নতুন স্পোর্টস ক্যাটাগরির স্লেস (দাগ) কালার (RGB ফরমেট)
 CATEGORY_COLORS = {
-    "mma": (220, 20, 40),          # Red
-    "football": (39, 174, 96),     # Pitch Green
-    "tennis": (212, 255, 0),       # Neon Yellow/Green
-    "auto racing": (241, 196, 15), # Gold/Yellow
-    "cycling": (155, 89, 182),     # Purple
-    "rugby": (230, 126, 34),       # Orange
-    "sailing": (52, 152, 219),     # Ocean Blue
-    "darts": (253, 121, 168),      # Pink
-    "badminton": (26, 188, 156),   # Teal/Cyan
-    "volleyball": (255, 112, 67),  # Deep Orange
-    "baseball": (220, 20, 60),     # Crimson Red
-    "other": (220, 20, 40)         # Default Red
+    "mma": (220, 20, 40),
+    "football": (39, 174, 96),
+    "tennis": (212, 255, 0),
+    "auto racing": (241, 196, 15),
+    "cycling": (155, 89, 182),
+    "rugby": (230, 126, 34),
+    "sailing": (52, 152, 219),
+    "darts": (253, 121, 168),
+    "badminton": (26, 188, 156),
+    "volleyball": (255, 112, 67),
+    "baseball": (220, 20, 60),
+    "other": (220, 20, 40)
 }
-# ==========================================
 
 def sanitize_filename(name):
-    # অবৈধ ক্যারেক্টার সরাবে
     clean_name = re.sub(r'[\\/*?:"<>|]', "", name)
-    # সব স্পেসকে আন্ডারস্কোর (_) দিয়ে রিপ্লেস করবে
     clean_name = re.sub(r'\s+', "_", clean_name.strip())
     return clean_name
 
@@ -144,7 +141,6 @@ def create_match_poster(match_name, home_logo_url, away_logo_url, local_path, fa
             font_vs = ImageFont.load_default()
             font_title = ImageFont.load_default()
 
-        # ডাইনামিক স্লেস কালার সেট করা হচ্ছে
         slash_color = CATEGORY_COLORS.get(category_name.lower(), CATEGORY_COLORS["other"])
 
         canvas = Image.new('RGB', (1000, 562), color=(15, 15, 20))
@@ -152,7 +148,6 @@ def create_match_poster(match_name, home_logo_url, away_logo_url, local_path, fa
         
         draw.polygon([(0,0), (450,0), (520,562), (0,562)], fill=(35, 35, 40))
         draw.polygon([(450,0), (1000,0), (1000,562), (520,562)], fill=(15, 25, 45))
-        # এখানে ডাইনামিক কালার বসবে
         draw.polygon([(430,0), (470,0), (540,562), (500,562)], fill=slash_color)
         
         overlay = Image.new('RGBA', (1000, 562), (0, 0, 0, 0))
@@ -207,6 +202,32 @@ def create_match_poster(match_name, home_logo_url, away_logo_url, local_path, fa
         print(f"    [!] Error processing '{match_name}': {e}. Using default.")
         download_and_save_default(local_path)
 
+def parse_m3u_data(m3u_text):
+    matches = []
+    lines = m3u_text.splitlines()
+    
+    for line in lines:
+        line = line.strip()
+        if line.startswith("#EXTINF:"):
+            current_match = {}
+            
+            logo_match = re.search(r'tvg-logo="([^"]+)"', line)
+            logo_url = logo_match.group(1) if logo_match else ""
+            current_match["Team 1 Logo"] = logo_url
+            current_match["Team 2 Logo"] = logo_url 
+            
+            cat_match = re.search(r'group-title="([^"]+)"', line)
+            current_match["Category"] = cat_match.group(1) if cat_match else "other"
+            
+            title_parts = line.split(",")
+            if len(title_parts) > 1:
+                current_match["Match Title"] = title_parts[-1].strip()
+            else:
+                current_match["Match Title"] = "Live Match"
+                
+            matches.append(current_match)
+            
+    return matches
 
 def clean_old_posters(active_filenames):
     print("\n[*] STEP 3: Cleaning up old posters...")
@@ -225,41 +246,24 @@ def clean_old_posters(active_filenames):
     print(f"   [+] Deleted {deleted_count} old posters to save repo space.")
 
 def main():
-    print(f"🚀 Starting Bing Poster Generator...")
+    print(f"🚀 Starting Poster Generator from M3U...")
     
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
         print(f"📁 Created directory: {OUTPUT_DIR}")
 
     try:
-        print(f"📥 Fetching JSON from {BING_JSON_URL}...")
-        res = requests.get(BING_JSON_URL, timeout=15)
-        data = res.json()
+        print(f"📥 Fetching M3U playlist from {M3U_URL}...")
+        res = requests.get(M3U_URL, timeout=15)
         
-        matches = []
-        if isinstance(data, dict):
-            if "channels" in data:
-                matches = data["channels"]
-            else:
-                matches = list(data.values())
-        elif isinstance(data, list):
-            matches = data
+        matches = parse_m3u_data(res.text)
             
-        print(f"📊 Found {len(matches)} total matches in 'channels'. Starting processing...\n")
+        print(f"📊 Found {len(matches)} items in M3U. Starting processing...\n")
         
         active_poster_filenames = [] 
         
         for index, match in enumerate(matches):
-            if not isinstance(match, dict):
-                continue
-                
-            team1 = match.get("Team 1 Name", "Unknown")
-            team2 = match.get("Team 2 Name", "Unknown")
-            match_title = match.get("Match Title")
-            
-            if not match_title or match_title.strip() == "":
-                match_title = f"{team1} VS {team2}"
-
+            match_title = match.get("Match Title", "Live Match")
             category_key = match.get("Category", "other").lower().strip()
             fallback_logo = DEFAULT_LOGOS.get(category_key, DEFAULT_LOGOS["other"])
                 
@@ -274,16 +278,15 @@ def main():
             local_path = os.path.join(OUTPUT_DIR, final_filename)
             active_poster_filenames.append(final_filename)
             
-            # category_key প্যারামিটার হিসেবে পাঠানো হচ্ছে কালার নির্ধারণের জন্য
             create_match_poster(match_title, logo1, logo2, local_path, fallback_logo, category_key)
             
         clean_old_posters(active_poster_filenames)
             
-        print("\n🎉 All posters generated and cleaned up successfully!")
+        print("\n🎉 All posters generated successfully!")
         print(f"📂 Check the '{OUTPUT_DIR}' folder.")
 
     except Exception as e:
-        print(f"\n[!] Fatal Error: Could not fetch or process JSON. {e}")
+        print(f"\n[!] Fatal Error: Could not fetch or process M3U. {e}")
 
 if __name__ == "__main__":
     main()
