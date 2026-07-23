@@ -12,7 +12,7 @@ except ImportError:
     print("[!] ERROR: 'Pillow' library is not installed.")
 
 # M3U ফাইলের ইউআরএল
-M3U_URL = "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
+M3U_URL = "https://github.com/sm-monirulislam/Toffee-Auto-Update-Playlist/blob/main/toffee_playlist.m3u"
 OUTPUT_DIR = "bing_posters" 
 JSON_OUTPUT_FILE = "playlist.json"
 GITHUB_USER = "mdmukul120"
