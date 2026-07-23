@@ -1,8 +1,9 @@
-
 import requests
 import os
 import re
+import json
 from io import BytesIO
+
 try:
     from PIL import Image, ImageDraw, ImageFont, ImageOps, ImageFilter
     PILLOW_INSTALLED = True
@@ -13,6 +14,10 @@ except ImportError:
 # M3U ফাইলের ইউআরএল
 M3U_URL = "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
 OUTPUT_DIR = "bing_posters" 
+JSON_OUTPUT_FILE = "playlist.json"
+GITHUB_USER = "mdmukul120"
+GITHUB_REPO = "Automation"
+
 DEFAULT_CUSTOM_LOGO = "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
 MAX_IMAGE_SIZE_KB = 100
 
@@ -176,7 +181,7 @@ def create_match_poster(match_name, home_logo_url, away_logo_url, local_path, fa
             vs_x = 500 - (vs_w / 2)
             vs_y = 280 - (vs_h / 2) - 15
             draw.text((vs_x + 3, vs_y + 3), vs_text, fill=(0, 0, 0, 180), font=font_vs)
-            draw.text((vs_x, vs_y), vs_text, fill=(255, 255, 255), font=font_vs)
+            draw.text((vs_x), vs_y), vs_text, fill=(255, 255, 255), font=font_vs)
         except:
             draw.text((470, 260), vs_text, fill=(255, 255, 255))
         
@@ -206,8 +211,9 @@ def parse_m3u_data(m3u_text):
     matches = []
     lines = m3u_text.splitlines()
     
-    for line in lines:
-        line = line.strip()
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
         if line.startswith("#EXTINF:"):
             current_match = {}
             
@@ -224,8 +230,17 @@ def parse_m3u_data(m3u_text):
                 current_match["Match Title"] = title_parts[-1].strip()
             else:
                 current_match["Match Title"] = "Live Match"
-                
+            
+            # পরবর্তী লাইনে স্ট্রিমিং ইউআরএল (Stream URL) খোঁজা
+            stream_url = ""
+            if i + 1 < len(lines):
+                next_line = lines[i + 1].strip()
+                if next_line and not next_line.startswith("#"):
+                    stream_url = next_line
+            
+            current_match["Stream URL"] = stream_url
             matches.append(current_match)
+        i += 1
             
     return matches
 
@@ -246,7 +261,7 @@ def clean_old_posters(active_filenames):
     print(f"   [+] Deleted {deleted_count} old posters to save repo space.")
 
 def main():
-    print(f"🚀 Starting Poster Generator from M3U...")
+    print(f"🚀 Starting Poster & Playlist Generator from M3U...")
     
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
@@ -261,10 +276,12 @@ def main():
         print(f"📊 Found {len(matches)} items in M3U. Starting processing...\n")
         
         active_poster_filenames = [] 
+        json_channels_data = []
         
         for index, match in enumerate(matches):
             match_title = match.get("Match Title", "Live Match")
             category_key = match.get("Category", "other").lower().strip()
+            stream_url = match.get("Stream URL", "")
             fallback_logo = DEFAULT_LOGOS.get(category_key, DEFAULT_LOGOS["other"])
                 
             logo1 = match.get("Team 1 Logo", "").strip()
@@ -278,12 +295,30 @@ def main():
             local_path = os.path.join(OUTPUT_DIR, final_filename)
             active_poster_filenames.append(final_filename)
             
+            # ১. পোস্টার জেনারেট করা
             create_match_poster(match_title, logo1, logo2, local_path, fallback_logo, category_key)
             
-        clean_old_posters(active_poster_filenames)
+            # ২. গিটহাব র পোস্টার ইউআরএল
+            generated_poster_url = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/main/{OUTPUT_DIR}/{final_filename}"
             
-        print("\n🎉 All posters generated successfully!")
-        print(f"📂 Check the '{OUTPUT_DIR}' folder.")
+            # ৩. JSON ডেটা স্ট্রাকচার তৈরি
+            json_channels_data.append({
+                "id": index + 1,
+                "title": match_title,
+                "category": category_key,
+                "stream_url": stream_url,
+                "poster": generated_poster_url,
+                "logo": logo1
+            })
+            
+        clean_old_posters(active_poster_filenames)
+        
+        # ৪. JSON ফাইল রাইট করা
+        with open(JSON_OUTPUT_FILE, "w", encoding="utf-8") as jf:
+            json.dump({"channels": json_channels_data}, jf, indent=4, ensure_ascii=False)
+        print(f"\n📄 Successfully created '{JSON_OUTPUT_FILE}' with {len(json_channels_data)} channels!")
+            
+        print("\n🎉 All posters and playlist JSON generated successfully!")
 
     except Exception as e:
         print(f"\n[!] Fatal Error: Could not fetch or process M3U. {e}")
