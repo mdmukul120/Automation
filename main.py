@@ -9,7 +9,7 @@ try:
     PILLOW_INSTALLED = True
 except ImportError:
     PILLOW_INSTALLED = False
-    print("[!] ERROR: 'Pillow' library is not installed. Run 'pip install Pillow'")
+    print("[!] ERROR: 'Pillow' library is not installed.")
 
 # M3U ফাইলের ইউআরএল
 M3U_URL = "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
@@ -62,8 +62,8 @@ def download_and_save_default(save_path):
             with open(save_path, 'wb') as f:
                 f.write(res.content)
             return True
-    except:
-        pass
+    except Exception as e:
+        print(f"    [!] Default download error: {e}")
     return False
 
 def create_match_poster(match_name, home_logo_url, away_logo_url, local_path, fallback_logo, category_name):
@@ -88,14 +88,14 @@ def create_match_poster(match_name, home_logo_url, away_logo_url, local_path, fa
             home_res = requests.get(home_logo_url, headers=img_headers, timeout=10)
             if home_res.status_code != 200:
                 home_res = requests.get(fallback_logo, headers=img_headers, timeout=10)
-        except:
+        except Exception:
             home_res = requests.get(fallback_logo, headers=img_headers, timeout=10)
 
         try:
             away_res = requests.get(away_logo_url, headers=img_headers, timeout=10)
             if away_res.status_code != 200:
                 away_res = requests.get(fallback_logo, headers=img_headers, timeout=10)
-        except:
+        except Exception:
             away_res = requests.get(fallback_logo, headers=img_headers, timeout=10)
         
         if home_res.status_code != 200 or away_res.status_code != 200:
@@ -137,12 +137,13 @@ def create_match_poster(match_name, home_logo_url, away_logo_url, local_path, fa
             try:
                 import urllib.request
                 urllib.request.urlretrieve("https://raw.githubusercontent.com/google/fonts/main/ofl/bebasneue/BebasNeue-Regular.ttf", font_path)
-            except: pass
+            except Exception:
+                pass
                 
         try:
             font_vs = ImageFont.truetype(font_path, 100)
             font_title = ImageFont.truetype(font_path, 50)
-        except:
+        except Exception:
             font_vs = ImageFont.load_default()
             font_title = ImageFont.load_default()
 
@@ -181,8 +182,8 @@ def create_match_poster(match_name, home_logo_url, away_logo_url, local_path, fa
             vs_x = 500 - (vs_w / 2)
             vs_y = 280 - (vs_h / 2) - 15
             draw.text((vs_x + 3, vs_y + 3), vs_text, fill=(0, 0, 0, 180), font=font_vs)
-            draw.text((vs_x), vs_y), vs_text, fill=(255, 255, 255), font=font_vs)
-        except:
+            draw.text((vs_x, vs_y), vs_text, fill=(255, 255, 255), font=font_vs)
+        except Exception:
             draw.text((470, 260), vs_text, fill=(255, 255, 255))
         
         try:
@@ -191,7 +192,7 @@ def create_match_poster(match_name, home_logo_url, away_logo_url, local_path, fa
             title_x = 500 - (title_w / 2)
             draw.text((title_x + 2, 480 + 2), match_name, fill=(0, 0, 0, 180), font=font_title)
             draw.text((title_x, 480), match_name, fill=(255, 255, 255), font=font_title)
-        except:
+        except Exception:
             draw.text((350, 480), match_name, fill=(255, 255, 255))
         
         quality = 90
@@ -231,7 +232,6 @@ def parse_m3u_data(m3u_text):
             else:
                 current_match["Match Title"] = "Live Match"
             
-            # পরবর্তী লাইনে স্ট্রিমিং ইউআরএল (Stream URL) খোঁজা
             stream_url = ""
             if i + 1 < len(lines):
                 next_line = lines[i + 1].strip()
@@ -246,7 +246,8 @@ def parse_m3u_data(m3u_text):
 
 def clean_old_posters(active_filenames):
     print("\n[*] STEP 3: Cleaning up old posters...")
-    if not os.path.exists(OUTPUT_DIR): return
+    if not os.path.exists(OUTPUT_DIR): 
+        return
 
     files_in_dir = os.listdir(OUTPUT_DIR)
     deleted_count = 0
@@ -256,12 +257,13 @@ def clean_old_posters(active_filenames):
             try:
                 os.remove(os.path.join(OUTPUT_DIR, file))
                 deleted_count += 1
-            except: pass
+            except Exception:
+                pass
             
     print(f"   [+] Deleted {deleted_count} old posters to save repo space.")
 
 def main():
-    print(f"🚀 Starting Poster & Playlist Generator from M3U...")
+    print("🚀 Starting Poster & Playlist Generator from M3U...")
     
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
@@ -295,13 +297,10 @@ def main():
             local_path = os.path.join(OUTPUT_DIR, final_filename)
             active_poster_filenames.append(final_filename)
             
-            # ১. পোস্টার জেনারেট করা
             create_match_poster(match_title, logo1, logo2, local_path, fallback_logo, category_key)
             
-            # ২. গিটহাব র পোস্টার ইউআরএল
             generated_poster_url = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/main/{OUTPUT_DIR}/{final_filename}"
             
-            # ৩. JSON ডেটা স্ট্রাকচার তৈরি
             json_channels_data.append({
                 "id": index + 1,
                 "title": match_title,
@@ -313,7 +312,6 @@ def main():
             
         clean_old_posters(active_poster_filenames)
         
-        # ৪. JSON ফাইল রাইট করা
         with open(JSON_OUTPUT_FILE, "w", encoding="utf-8") as jf:
             json.dump({"channels": json_channels_data}, jf, indent=4, ensure_ascii=False)
         print(f"\n📄 Successfully created '{JSON_OUTPUT_FILE}' with {len(json_channels_data)} channels!")
