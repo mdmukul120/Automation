@@ -1,9 +1,9 @@
 name: Run Python Script
 
 on:
-  workflow_dispatch: # ম্যানুয়ালি রান করার জন্য
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # প্রতিদিন নির্দিষ্ট সময়ে রান করার জন্য
+    - cron: '0 0 * * *'
 
 jobs:
   run-script:
@@ -25,3 +25,11 @@ jobs:
 
       - name: Run Main Script
         run: python main.py
+
+      - name: Commit and Push Generated Posters
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add bing_posters/
+          git commit -m "Auto-generated posters from M3U" || exit 0
+          git push
