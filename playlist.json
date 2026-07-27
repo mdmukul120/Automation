@@ -1,3 +1,20 @@
 {
-    "channels": []
+    "channels": [
+        {
+            "id": 1,
+            "title": "Lithuania Live | UIPM 2026",
+            "category": "multisports",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Lithuania_Live_UIPM_2026.jpg",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851383621020x576.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Pakistan vs Kazakhstan | CAVA Men's Volleyball Championship 2026",
+            "category": "volleyball",
+            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Pakistan_vs_Kazakhstan_CAVA_Men's_Volleyball_Championship_2026.jpg",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849007381020x576.jpg"
+        }
+    ]
 }
