@@ -2,22 +2,14 @@
     "channels": [
         {
             "id": 1,
-            "title": "Pakistan Vs Kazakhstan",
+            "title": "West Indies Vs Pakistan",
             "category": "cricket",
-            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Pakistan_Vs_Kazakhstan.jpg",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784900738540x302.jpg"
+            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb21080_1ta-di_h264/index.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/West_Indies_Vs_Pakistan.jpg",
+            "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
         },
         {
             "id": 2,
-            "title": "Namibia Vs Nepal",
-            "category": "cricket",
-            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Namibia_Vs_Nepal.jpg",
-            "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAB@2x.png"
-        },
-        {
-            "id": 3,
             "title": "Zim Vs Ind - FANCODE FHD",
             "category": "cricket",
             "stream_url": "",
@@ -25,7 +17,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187745/image"
         },
         {
-            "id": 4,
+            "id": 3,
             "title": "Zim Vs Ind - FANCODE ALT",
             "category": "cricket",
             "stream_url": "",
@@ -33,7 +25,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187745/image"
         },
         {
-            "id": 5,
+            "id": 4,
             "title": "Zim Vs Ind - FANCODE SD",
             "category": "cricket",
             "stream_url": "",
@@ -41,7 +33,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187745/image"
         },
         {
-            "id": 6,
+            "id": 5,
             "title": "Zim Vs Ind - FANCODE - HIN",
             "category": "cricket",
             "stream_url": "https://du63lhrf9y1yb.cloudfront.net/143351_hindi_hls_e275e99cda1596_1ta-di_h264/index.m3u8",
@@ -49,7 +41,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187745/image"
         },
         {
-            "id": 7,
+            "id": 6,
             "title": "Zim Vs Ind - FANCODE - IN",
             "category": "cricket",
             "stream_url": "https://du63lhrf9y1yb.cloudfront.net/143351_english_hls_e275e99cda1596_1ta-di_h264/index.m3u8",
@@ -57,7 +49,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187745/image"
         },
         {
-            "id": 8,
+            "id": 7,
             "title": "Zim Vs Ind - FANCODE - BD",
             "category": "cricket",
             "stream_url": "",
@@ -65,7 +57,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187745/image"
         },
         {
-            "id": 9,
+            "id": 8,
             "title": "Zim Vs Ind - TAPMAD - PK",
             "category": "cricket",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
@@ -73,7 +65,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187745/image"
         },
         {
-            "id": 10,
+            "id": 9,
             "title": "Zim Vs Ind - CRICKET FHD",
             "category": "cricket",
             "stream_url": "",
@@ -81,7 +73,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187745/image"
         },
         {
-            "id": 11,
+            "id": 10,
             "title": "Sl-W Vs Pak-W - WILLOW FHD",
             "category": "cricket",
             "stream_url": "",
@@ -89,7 +81,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187806/image"
         },
         {
-            "id": 12,
+            "id": 11,
             "title": "Sl-W Vs Pak-W - TAPMAD FHD",
             "category": "cricket",
             "stream_url": "",
@@ -97,12 +89,20 @@
             "logo": "https://img.sofascore.com/api/v1/team/187806/image"
         },
         {
-            "id": 13,
+            "id": 12,
             "title": "Sl-W Vs Pak-W - WILLOW SD",
             "category": "cricket",
             "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
             "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sl-W_Vs_Pak-W_-_WILLOW_SD.jpg",
             "logo": "https://img.sofascore.com/api/v1/team/187806/image"
+        },
+        {
+            "id": 13,
+            "title": "World Feed Day 1",
+            "category": "tennis",
+            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/143640_english_hls_6cd30c2cc670542_1ta-di_h264/index.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/World_Feed_Day_1.jpg",
+            "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
         },
         {
             "id": 14,
