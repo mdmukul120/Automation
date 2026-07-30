@@ -2,14 +2,6 @@
     "channels": [
         {
             "id": 1,
-            "title": "Desert Vipers Vs Perth Scorchers Xi",
-            "category": "cricket",
-            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Desert_Vipers_Vs_Perth_Scorchers_Xi.jpg",
-            "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DVDD@2x.png"
-        },
-        {
-            "id": 2,
             "title": "Zim Vs Ind - FANCODE FHD",
             "category": "cricket",
             "stream_url": "",
@@ -17,7 +9,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187745/image"
         },
         {
-            "id": 3,
+            "id": 2,
             "title": "Zim Vs Ind - FANCODE ALT",
             "category": "cricket",
             "stream_url": "",
@@ -25,7 +17,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187745/image"
         },
         {
-            "id": 4,
+            "id": 3,
             "title": "Zim Vs Ind - FANCODE SD",
             "category": "cricket",
             "stream_url": "",
@@ -33,7 +25,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187745/image"
         },
         {
-            "id": 5,
+            "id": 4,
             "title": "Zim Vs Ind - FANCODE - HIN",
             "category": "cricket",
             "stream_url": "https://du63lhrf9y1yb.cloudfront.net/143351_hindi_hls_e275e99cda1596_1ta-di_h264/index.m3u8",
@@ -41,7 +33,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187745/image"
         },
         {
-            "id": 6,
+            "id": 5,
             "title": "Zim Vs Ind - FANCODE - IN",
             "category": "cricket",
             "stream_url": "https://du63lhrf9y1yb.cloudfront.net/143351_english_hls_e275e99cda1596_1ta-di_h264/index.m3u8",
@@ -49,7 +41,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187745/image"
         },
         {
-            "id": 7,
+            "id": 6,
             "title": "Zim Vs Ind - FANCODE - BD",
             "category": "cricket",
             "stream_url": "",
@@ -57,7 +49,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187745/image"
         },
         {
-            "id": 8,
+            "id": 7,
             "title": "Zim Vs Ind - TAPMAD - PK",
             "category": "cricket",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
@@ -65,7 +57,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187745/image"
         },
         {
-            "id": 9,
+            "id": 8,
             "title": "Zim Vs Ind - CRICKET FHD",
             "category": "cricket",
             "stream_url": "",
@@ -73,7 +65,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187745/image"
         },
         {
-            "id": 10,
+            "id": 9,
             "title": "Sl-W Vs Pak-W - WILLOW FHD",
             "category": "cricket",
             "stream_url": "",
@@ -81,7 +73,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187806/image"
         },
         {
-            "id": 11,
+            "id": 10,
             "title": "Sl-W Vs Pak-W - TAPMAD FHD",
             "category": "cricket",
             "stream_url": "",
@@ -89,7 +81,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187806/image"
         },
         {
-            "id": 12,
+            "id": 11,
             "title": "Sl-W Vs Pak-W - WILLOW SD",
             "category": "cricket",
             "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
@@ -97,23 +89,23 @@
             "logo": "https://img.sofascore.com/api/v1/team/187806/image"
         },
         {
-            "id": 13,
-            "title": "World Feed 1",
+            "id": 12,
+            "title": "Grandstand",
             "category": "tennis",
-            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/143641_english_hls_172b098b4923302_1ta-di_h264/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/World_Feed_1.jpg",
+            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/143644_english_hls_dac7e1e91035427_1ta-di_h264/index.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Grandstand.jpg",
+            "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+            "id": 13,
+            "title": "World Feed",
+            "category": "tennis",
+            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/index.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/World_Feed.jpg",
             "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
         },
         {
             "id": 14,
-            "title": "World Feed 2",
-            "category": "tennis",
-            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/World_Feed_2.jpg",
-            "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
-        },
-        {
-            "id": 15,
             "title": "Smackdown Vs Smackdown - WWE HD",
             "category": "boxing",
             "stream_url": "",
@@ -121,7 +113,7 @@
             "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg"
         },
         {
-            "id": 16,
+            "id": 15,
             "title": "Smackdown Vs Smackdown - WWE LIVE HD",
             "category": "boxing",
             "stream_url": "https://melancholy.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
@@ -129,7 +121,7 @@
             "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg"
         },
         {
-            "id": 17,
+            "id": 16,
             "title": "Smackdown Vs Smackdown - SD SERVER",
             "category": "boxing",
             "stream_url": "",
@@ -137,7 +129,7 @@
             "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg"
         },
         {
-            "id": 18,
+            "id": 17,
             "title": "Motogp Vs Motogp - FANCODE FHD",
             "category": "motorsport",
             "stream_url": "",
@@ -145,7 +137,7 @@
             "logo": "https://i.ibb.co/6chYXnTd/mgpp.png"
         },
         {
-            "id": 19,
+            "id": 18,
             "title": "Motogp Vs Motogp - SPO TV FHD",
             "category": "motorsport",
             "stream_url": "",
@@ -153,7 +145,7 @@
             "logo": "https://i.ibb.co/6chYXnTd/mgpp.png"
         },
         {
-            "id": 20,
+            "id": 19,
             "title": "Motogp Vs Motogp - MotoGP FHD",
             "category": "motorsport",
             "stream_url": "",
@@ -161,7 +153,7 @@
             "logo": "https://i.ibb.co/6chYXnTd/mgpp.png"
         },
         {
-            "id": 21,
+            "id": 20,
             "title": "Motogp Vs Motogp - NOW SPORTS FHD",
             "category": "motorsport",
             "stream_url": "",
@@ -169,7 +161,7 @@
             "logo": "https://i.ibb.co/6chYXnTd/mgpp.png"
         },
         {
-            "id": 22,
+            "id": 21,
             "title": "Motogp Vs Motogp - TNT SPORTS SD",
             "category": "motorsport",
             "stream_url": "",
@@ -177,7 +169,7 @@
             "logo": "https://i.ibb.co/6chYXnTd/mgpp.png"
         },
         {
-            "id": 23,
+            "id": 22,
             "title": "Motogp Vs Motogp - DAZN SPORTS",
             "category": "motorsport",
             "stream_url": "",
@@ -185,7 +177,7 @@
             "logo": "https://i.ibb.co/6chYXnTd/mgpp.png"
         },
         {
-            "id": 24,
+            "id": 23,
             "title": "Motogp Vs Motogp - CANAL+ HD",
             "category": "motorsport",
             "stream_url": "",
@@ -193,7 +185,7 @@
             "logo": "https://i.ibb.co/6chYXnTd/mgpp.png"
         },
         {
-            "id": 25,
+            "id": 24,
             "title": "Motogp Vs Motogp - SD SERVER",
             "category": "motorsport",
             "stream_url": "",
@@ -201,7 +193,7 @@
             "logo": "https://i.ibb.co/6chYXnTd/mgpp.png"
         },
         {
-            "id": 26,
+            "id": 25,
             "title": "Wwe Raw Vs Wwe Raw - WWE+ HD",
             "category": "boxing",
             "stream_url": "",
@@ -209,7 +201,7 @@
             "logo": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png"
         },
         {
-            "id": 27,
+            "id": 26,
             "title": "Wwe Raw Vs Wwe Raw - WWE HD",
             "category": "boxing",
             "stream_url": "",
@@ -217,7 +209,7 @@
             "logo": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png"
         },
         {
-            "id": 28,
+            "id": 27,
             "title": "Wwe Raw Vs Wwe Raw - HD SERVER",
             "category": "boxing",
             "stream_url": "",
@@ -225,7 +217,7 @@
             "logo": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png"
         },
         {
-            "id": 29,
+            "id": 28,
             "title": "Wwe Raw Vs Wwe Raw - SD SERVER",
             "category": "boxing",
             "stream_url": "",
@@ -233,7 +225,7 @@
             "logo": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png"
         },
         {
-            "id": 30,
+            "id": 29,
             "title": "Aew Vs Aew - TSN2 SPORTS FHD",
             "category": "boxing",
             "stream_url": "",
@@ -241,7 +233,7 @@
             "logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png"
         },
         {
-            "id": 31,
+            "id": 30,
             "title": "Aew Vs Aew - AEW LIVE HD",
             "category": "boxing",
             "stream_url": "",
@@ -249,7 +241,7 @@
             "logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png"
         },
         {
-            "id": 32,
+            "id": 31,
             "title": "Aew Vs Aew - FOX PREMIUM",
             "category": "boxing",
             "stream_url": "",
@@ -257,7 +249,7 @@
             "logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png"
         },
         {
-            "id": 33,
+            "id": 32,
             "title": "Aew Vs Aew - SD SERVER",
             "category": "boxing",
             "stream_url": "",
@@ -265,7 +257,7 @@
             "logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png"
         },
         {
-            "id": 34,
+            "id": 33,
             "title": "One Friday Fights Vs One Friday Fights - One Fight FHD",
             "category": "boxing",
             "stream_url": "",
@@ -273,7 +265,7 @@
             "logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png"
         },
         {
-            "id": 35,
+            "id": 34,
             "title": "One Friday Fights Vs One Friday Fights - SERVER 2",
             "category": "boxing",
             "stream_url": "",
@@ -281,7 +273,7 @@
             "logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png"
         },
         {
-            "id": 36,
+            "id": 35,
             "title": "One Friday Fights Vs One Friday Fights - SERVER 3",
             "category": "boxing",
             "stream_url": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8",
