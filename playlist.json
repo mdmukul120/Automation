@@ -2,11 +2,11 @@
     "channels": [
         {
             "id": 1,
-            "title": "Desert Vipers Vs San Francisco Unicorns",
+            "title": "Guyana Amazon Warriors Vs San Francisco Unicorns",
             "category": "cricket",
-            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/4247441_english_hls_5119ad3fdb90978_1ta-di_h264/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Desert_Vipers_Vs_San_Francisco_Unicorns.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Desert%20Vipers%20Vs%20San%20Francisco%20Unicorns.jpg"
+            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/index.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Guyana_Amazon_Warriors_Vs_San_Francisco_Unicorns.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Guyana%20Amazon%20Warriors%20Vs%20San%20Francisco%20Unicorns.jpg"
         },
         {
             "id": 2,
@@ -330,11 +330,11 @@
         },
         {
             "id": 42,
-            "title": "World Feed",
+            "title": "Atp 500 Mubadala Dc Open 2026",
             "category": "tennis",
-            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/World_Feed.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/World%20Feed.jpg"
+            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/143650_english_hls_83b9312ab58473_1ta-di_h264/index.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Atp_500_Mubadala_Dc_Open_2026.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atp%20500%20Mubadala%20Dc%20Open%202026.jpg"
         },
         {
             "id": 43,
