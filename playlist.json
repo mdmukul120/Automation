@@ -4,540 +4,12 @@
             "id": 1,
             "title": "West Indies Vs Pakistan",
             "category": "cricket",
-            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/index.m3u8",
+            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8",
             "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/West_Indies_Vs_Pakistan.jpg",
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/West%20Indies%20Vs%20Pakistan.jpg"
         },
         {
             "id": 2,
-            "title": "Sl-W Vs Pak-W - WILLOW FHD",
-            "category": "cricket",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sl-W_Vs_Pak-W_-_WILLOW_FHD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/187806/image"
-        },
-        {
-            "id": 3,
-            "title": "Sl-W Vs Pak-W - TAPMAD FHD",
-            "category": "cricket",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sl-W_Vs_Pak-W_-_TAPMAD_FHD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/187806/image"
-        },
-        {
-            "id": 4,
-            "title": "Sl-W Vs Pak-W - WILLOW SD",
-            "category": "cricket",
-            "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sl-W_Vs_Pak-W_-_WILLOW_SD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/187806/image"
-        },
-        {
-            "id": 5,
-            "title": "Sl-W Vs Pak-W - FANCODE (IND)",
-            "category": "cricket",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sl-W_Vs_Pak-W_-_FANCODE_(IND).jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/187806/image"
-        },
-        {
-            "id": 6,
-            "title": "Sl-W Vs Pak-W - FANCODE (BD)",
-            "category": "cricket",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sl-W_Vs_Pak-W_-_FANCODE_(BD).jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/187806/image"
-        },
-        {
-            "id": 7,
-            "title": "Legends League Vs Legends League - TAPMAD FHD",
-            "category": "cricket",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Legends_League_Vs_Legends_League_-_TAPMAD_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Legends%20League%20Vs%20Legends%20League.jpg"
-        },
-        {
-            "id": 8,
-            "title": "Legends League Vs Legends League - FANCODE (IND)",
-            "category": "cricket",
-            "stream_url": "https://dai-fancode.pages.dev/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Legends_League_Vs_Legends_League_-_FANCODE_(IND).jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Legends%20League%20Vs%20Legends%20League.jpg"
-        },
-        {
-            "id": 9,
-            "title": "Legends League Vs Legends League - FANCODE (BD)",
-            "category": "cricket",
-            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Legends_League_Vs_Legends_League_-_FANCODE_(BD).jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Legends%20League%20Vs%20Legends%20League.jpg"
-        },
-        {
-            "id": 10,
-            "title": "Ned Vs Nam - Link 1",
-            "category": "cricket",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Ned_Vs_Nam_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/187840/image"
-        },
-        {
-            "id": 11,
-            "title": "Fürth Vs Freiburg - Link 1",
-            "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Fürth_Vs_Freiburg_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/2551/image"
-        },
-        {
-            "id": 12,
-            "title": "Elche Vs Córdoba - Link 1",
-            "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Elche_Vs_Córdoba_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/2846/image"
-        },
-        {
-            "id": 13,
-            "title": "Alavés Vs Castellón - Link 1",
-            "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Alavés_Vs_Castellón_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/2885/image"
-        },
-        {
-            "id": 14,
-            "title": "Köln Vs Hertha - Link 1",
-            "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Köln_Vs_Hertha_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/2671/image"
-        },
-        {
-            "id": 15,
-            "title": "Leeds Vs Sunderland - PREMIER SPORTS FHD",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Leeds_Vs_Sunderland_-_PREMIER_SPORTS_FHD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/34/image"
-        },
-        {
-            "id": 16,
-            "title": "Leeds Vs Sunderland - CBS SPORTS FHD",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Leeds_Vs_Sunderland_-_CBS_SPORTS_FHD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/34/image"
-        },
-        {
-            "id": 17,
-            "title": "Leeds Vs Sunderland - HD SERVER",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Leeds_Vs_Sunderland_-_HD_SERVER.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/34/image"
-        },
-        {
-            "id": 18,
-            "title": "Leeds Vs Sunderland - HD SERVER+",
-            "category": "football",
-            "stream_url": "https://hls.live123.fans/live/4541767.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Leeds_Vs_Sunderland_-_HD_SERVER+.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/34/image"
-        },
-        {
-            "id": 19,
-            "title": "Leeds Vs Sunderland - LOW QUALITY",
-            "category": "football",
-            "stream_url": "http://162.251.160.53:8089/THURaFOT1/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Leeds_Vs_Sunderland_-_LOW_QUALITY.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/34/image"
-        },
-        {
-            "id": 20,
-            "title": "Portimonense Vs Forest - Link 1",
-            "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Portimonense_Vs_Forest_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3026/image"
-        },
-        {
-            "id": 21,
-            "title": "Sporting Vs Forest - Link 1",
-            "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sporting_Vs_Forest_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3001/image"
-        },
-        {
-            "id": 22,
-            "title": "Benfica Vs St. Gallen - SD SERVER",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Benfica_Vs_St._Gallen_-_SD_SERVER.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3006/image"
-        },
-        {
-            "id": 23,
-            "title": "Benfica Vs St. Gallen - HD SERVER",
-            "category": "football",
-            "stream_url": "https://hls.live123.fans/live/4556488.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Benfica_Vs_St._Gallen_-_HD_SERVER.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3006/image"
-        },
-        {
-            "id": 24,
-            "title": "Ajax Vs Vojvodina - LOW QUALITY",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Ajax_Vs_Vojvodina_-_LOW_QUALITY.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/2953/image"
-        },
-        {
-            "id": 25,
-            "title": "Ferencváros Vs Twente - LOW SERVER",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Ferencváros_Vs_Twente_-_LOW_SERVER.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/1925/image"
-        },
-        {
-            "id": 26,
-            "title": "Ferencváros Vs Twente - SD SERVER",
-            "category": "football",
-            "stream_url": "http://162.251.160.53:8089/THURaFOT3/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Ferencváros_Vs_Twente_-_SD_SERVER.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/1925/image"
-        },
-        {
-            "id": 27,
-            "title": "Coritiba Vs Cruzeiro - SPORT TV FHD",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Coritiba_Vs_Cruzeiro_-_SPORT_TV_FHD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/1982/image"
-        },
-        {
-            "id": 28,
-            "title": "Coritiba Vs Cruzeiro - PREMIERE BR FHD",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Coritiba_Vs_Cruzeiro_-_PREMIERE_BR_FHD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/1982/image"
-        },
-        {
-            "id": 29,
-            "title": "Morocco Vs Algeria - beiN SPORTS 2 FHD",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Morocco_Vs_Algeria_-_beiN_SPORTS_2_FHD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/261908/image"
-        },
-        {
-            "id": 30,
-            "title": "Morocco Vs Algeria - beiN SPORTS 3 FHD",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Morocco_Vs_Algeria_-_beiN_SPORTS_3_FHD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/261908/image"
-        },
-        {
-            "id": 31,
-            "title": "Morocco Vs Algeria - beiN SPORTS 1 FHD",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Morocco_Vs_Algeria_-_beiN_SPORTS_1_FHD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/261908/image"
-        },
-        {
-            "id": 32,
-            "title": "O'Higgins Vs Boca Juniors - beiN SPORTS FHD",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/O'Higgins_Vs_Boca_Juniors_-_beiN_SPORTS_FHD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3163/image"
-        },
-        {
-            "id": 33,
-            "title": "O'Higgins Vs Boca Juniors - SportDigital Fussball",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/O'Higgins_Vs_Boca_Juniors_-_SportDigital_Fussball.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3163/image"
-        },
-        {
-            "id": 34,
-            "title": "O'Higgins Vs Boca Juniors - D SPORTS FHD",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/O'Higgins_Vs_Boca_Juniors_-_D_SPORTS_FHD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3163/image"
-        },
-        {
-            "id": 35,
-            "title": "O'Higgins Vs Boca Juniors - LOW QUALITY",
-            "category": "football",
-            "stream_url": "http://162.251.160.53:8089/THURaFOT4/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/O'Higgins_Vs_Boca_Juniors_-_LOW_QUALITY.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3163/image"
-        },
-        {
-            "id": 36,
-            "title": "Grêmio Vs Bolívar - beiN SPORTS FHD",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Grêmio_Vs_Bolívar_-_beiN_SPORTS_FHD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/5926/image"
-        },
-        {
-            "id": 37,
-            "title": "Grêmio Vs Bolívar - SportDigital Fussball",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Grêmio_Vs_Bolívar_-_SportDigital_Fussball.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/5926/image"
-        },
-        {
-            "id": 38,
-            "title": "Grêmio Vs Bolívar - SD SERVER",
-            "category": "football",
-            "stream_url": "http://162.251.160.53:8089/THURaFOT3/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Grêmio_Vs_Bolívar_-_SD_SERVER.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/5926/image"
-        },
-        {
-            "id": 39,
-            "title": "Corinthians Vs Athletico - PREMIER SPORTS FHD",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Corinthians_Vs_Athletico_-_PREMIER_SPORTS_FHD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/1957/image"
-        },
-        {
-            "id": 40,
-            "title": "Caracas Vs Santa Fe - D SPORTS FHD",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Caracas_Vs_Santa_Fe_-_D_SPORTS_FHD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/6230/image"
-        },
-        {
-            "id": 41,
-            "title": "Caracas Vs Santa Fe - SD SERVER",
-            "category": "football",
-            "stream_url": "http://162.251.160.53:8089/THURaFOT5/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Caracas_Vs_Santa_Fe_-_SD_SERVER.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/6230/image"
-        },
-        {
-            "id": 42,
-            "title": "Center Court",
-            "category": "tennis",
-            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/4248062_english_hls_3d9cae3bf277024_1ta-di_h264/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Center_Court.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Center%20Court.jpg"
-        },
-        {
-            "id": 43,
-            "title": "World Feed",
-            "category": "tennis",
-            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/4248063_english_hls_1effecd64e43748_1ta-di_h264/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/World_Feed.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/World%20Feed.jpg"
-        },
-        {
-            "id": 44,
-            "title": "Court 5",
-            "category": "tennis",
-            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/4248064_english_hls_9c9081b60732638_1ta-di_h264/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Court_5.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Court%205.jpg"
-        },
-        {
-            "id": 45,
-            "title": "Court 9",
-            "category": "tennis",
-            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/4248065_english_hls_f97aa26d5748943_1ta-di_h264/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Court_9.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Court%209.jpg"
-        },
-        {
-            "id": 46,
-            "title": "Rogers Court",
-            "category": "tennis",
-            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Rogers_Court.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Rogers%20Court.jpg"
-        },
-        {
-            "id": 47,
-            "title": "One Friday Fights Vs One Friday Fights - One Fight FHD",
-            "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/One_Friday_Fights_Vs_One_Friday_Fights_-_One_Fight_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/One%20Friday%20Fights%20Vs%20One%20Friday%20Fights.jpg"
-        },
-        {
-            "id": 48,
-            "title": "One Friday Fights Vs One Friday Fights - SERVER 2",
-            "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/One_Friday_Fights_Vs_One_Friday_Fights_-_SERVER_2.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/One%20Friday%20Fights%20Vs%20One%20Friday%20Fights.jpg"
-        },
-        {
-            "id": 49,
-            "title": "One Friday Fights Vs One Friday Fights - SERVER 3",
-            "category": "boxing",
-            "stream_url": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/One_Friday_Fights_Vs_One_Friday_Fights_-_SERVER_3.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/One%20Friday%20Fights%20Vs%20One%20Friday%20Fights.jpg"
-        },
-        {
-            "id": 50,
-            "title": "Padres Vs Giants - MLB HD",
-            "category": "baseball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Padres_Vs_Giants_-_MLB_HD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3636/image"
-        },
-        {
-            "id": 51,
-            "title": "Padres Vs Giants - HD SERVER",
-            "category": "baseball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Padres_Vs_Giants_-_HD_SERVER.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3636/image"
-        },
-        {
-            "id": 52,
-            "title": "Mets Vs Marlins - HD SERVER",
-            "category": "baseball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Mets_Vs_Marlins_-_HD_SERVER.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3629/image"
-        },
-        {
-            "id": 53,
-            "title": "Reds Vs Pirates - HD SERVER",
-            "category": "baseball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Reds_Vs_Pirates_-_HD_SERVER.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3633/image"
-        },
-        {
-            "id": 54,
-            "title": "White Sox Vs Yankees - MLB HD",
-            "category": "baseball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/White_Sox_Vs_Yankees_-_MLB_HD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3644/image"
-        },
-        {
-            "id": 55,
-            "title": "White Sox Vs Yankees - HD SERVER",
-            "category": "baseball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/White_Sox_Vs_Yankees_-_HD_SERVER.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3644/image"
-        },
-        {
-            "id": 56,
-            "title": "Cardinals Vs Cubs - MLB HD",
-            "category": "baseball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Cardinals_Vs_Cubs_-_MLB_HD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3632/image"
-        },
-        {
-            "id": 57,
-            "title": "Cardinals Vs Cubs - HD SERVER",
-            "category": "baseball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Cardinals_Vs_Cubs_-_HD_SERVER.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3632/image"
-        },
-        {
-            "id": 58,
-            "title": "Braves Vs Nationals - HD SERVER",
-            "category": "baseball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Braves_Vs_Nationals_-_HD_SERVER.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3656/image"
-        },
-        {
-            "id": 59,
-            "title": "Athletics Vs Red Sox - MLB HD",
-            "category": "baseball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Athletics_Vs_Red_Sox_-_MLB_HD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3645/image"
-        },
-        {
-            "id": 60,
-            "title": "Athletics Vs Red Sox - HD SERVER",
-            "category": "baseball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Athletics_Vs_Red_Sox_-_HD_SERVER.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3645/image"
-        },
-        {
-            "id": 61,
-            "title": "Dodgers Vs Mariners - Link 1",
-            "category": "baseball",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Dodgers_Vs_Mariners_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/3638/image"
-        },
-        {
-            "id": 62,
-            "title": "Sky Vs Sun - WNBA HD",
-            "category": "basketball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sky_Vs_Sun_-_WNBA_HD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/35546/image"
-        },
-        {
-            "id": 63,
-            "title": "Sky Vs Sun - HD SERVER",
-            "category": "basketball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sky_Vs_Sun_-_HD_SERVER.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/35546/image"
-        },
-        {
-            "id": 64,
-            "title": "Tempo Vs Lynx - HD SERVER",
-            "category": "basketball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Tempo_Vs_Lynx_-_HD_SERVER.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/1166445/image"
-        },
-        {
-            "id": 65,
-            "title": "Aces Vs Liberty - WNBA HD",
-            "category": "basketball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Aces_Vs_Liberty_-_WNBA_HD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/35550/image"
-        },
-        {
-            "id": 66,
-            "title": "Aces Vs Liberty - HD SERVER",
-            "category": "basketball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Aces_Vs_Liberty_-_HD_SERVER.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/35550/image"
-        },
-        {
-            "id": 67,
-            "title": "Winnipeg Vs Bc - CFL HD",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Winnipeg_Vs_Bc_-_CFL_HD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/4435/image"
-        },
-        {
-            "id": 68,
             "title": "Wi Vs Pak - WILLOW FHD",
             "category": "cricket",
             "stream_url": "",
@@ -545,7 +17,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187760/image"
         },
         {
-            "id": 69,
+            "id": 3,
             "title": "Wi Vs Pak - TAPMAD FHD",
             "category": "cricket",
             "stream_url": "",
@@ -553,7 +25,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187760/image"
         },
         {
-            "id": 70,
+            "id": 4,
             "title": "Wi Vs Pak - WILLOW ALT",
             "category": "cricket",
             "stream_url": "",
@@ -561,23 +33,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187760/image"
         },
         {
-            "id": 71,
-            "title": "Wi Vs Pak - WILLOW SD",
-            "category": "cricket",
-            "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Wi_Vs_Pak_-_WILLOW_SD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/187760/image"
-        },
-        {
-            "id": 72,
-            "title": "Wi Vs Pak - PTV SPORTS",
-            "category": "cricket",
-            "stream_url": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Wi_Vs_Pak_-_PTV_SPORTS.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/187760/image"
-        },
-        {
-            "id": 73,
+            "id": 5,
             "title": "Wi Vs Pak - LOW SERVER",
             "category": "cricket",
             "stream_url": "",
@@ -585,404 +41,236 @@
             "logo": "https://img.sofascore.com/api/v1/team/187760/image"
         },
         {
-            "id": 74,
-            "title": "Wi Vs Pak - FANCODE (BD)",
-            "category": "cricket",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Wi_Vs_Pak_-_FANCODE_(BD).jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/187760/image"
-        },
-        {
-            "id": 75,
+            "id": 6,
             "title": "Wi Vs Pak - FANCODE (IND)",
             "category": "cricket",
-            "stream_url": "https://livecf.fancode.com/143633_english_hls_37959550fb21080_1ta-di_h264/index.m3u8",
+            "stream_url": "",
             "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Wi_Vs_Pak_-_FANCODE_(IND).jpg",
             "logo": "https://img.sofascore.com/api/v1/team/187760/image"
         },
         {
-            "id": 76,
-            "title": "Wi Vs Pak - WILLOW FHD",
+            "id": 7,
+            "title": "Calcutta Premier Division Vs Calcutta Premier Division - Measurers Club vs Peerless SC",
+            "category": "football",
+            "stream_url": "https://live-n10.videostech.cloud/match/behalasssportingclub_vs_eastbengalfc/HLS/master.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Calcutta_Premier_Division_Vs_Calcutta_Premier_Division_-_Measurers_Club_vs_Peerless_SC.jpg",
+            "logo": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark"
+        },
+        {
+            "id": 8,
+            "title": "Durand Cup Vs Durand Cup - MOHUN BAGAN SUPER GIANT VS SOUTH UNITED FC",
+            "category": "football",
+            "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/football0408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785893278~acl=/*~id=23050157995297615685436094975170~hmac=391443fc4400ce73bb1bc81cd0b6c6fc1b4ffd105f3e0404835a15431117922d",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Durand_Cup_Vs_Durand_Cup_-_MOHUN_BAGAN_SUPER_GIANT_VS_SOUTH_UNITED_FC.jpg",
+            "logo": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark"
+        },
+        {
+            "id": 9,
+            "title": "Durand Cup Vs Durand Cup - JAMSHEDPUR FC VS SC DELHI",
+            "category": "football",
+            "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/Football0308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785804643~acl=/*~id=43066143494206625324545938698522~hmac=a5e79df143bffca486a2d76ae9f4decdbb1e9c504f482ba619d755fc56060a2d",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Durand_Cup_Vs_Durand_Cup_-_JAMSHEDPUR_FC_VS_SC_DELHI.jpg",
+            "logo": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark"
+        },
+        {
+            "id": 10,
+            "title": "Pathum Utd Vs Aston Villa - LOW SERVER",
+            "category": "football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Pathum_Utd_Vs_Aston_Villa_-_LOW_SERVER.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/35607/image"
+        },
+        {
+            "id": 11,
+            "title": "Al-Nassr Vs Almería - Link 1",
+            "category": "football",
+            "stream_url": "https://file.genoads.com/ch1.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Al-Nassr_Vs_Almería_-_Link_1.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/23400/image"
+        },
+        {
+            "id": 12,
+            "title": "Strasbourg Vs Elversberg - Link 1",
+            "category": "football",
+            "stream_url": "https://file.genoads.com/ch1.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Strasbourg_Vs_Elversberg_-_Link_1.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/1659/image"
+        },
+        {
+            "id": 13,
+            "title": "Jeju Vs Bayern - Sport TV1 HD",
+            "category": "football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Jeju_Vs_Bayern_-_Sport_TV1_HD.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/7649/image"
+        },
+        {
+            "id": 14,
+            "title": "Jeju Vs Bayern - LOW SERVER",
+            "category": "football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Jeju_Vs_Bayern_-_LOW_SERVER.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/7649/image"
+        },
+        {
+            "id": 15,
+            "title": "Sl-W Vs Lns-W - WILLOW FHD",
             "category": "cricket",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Wi_Vs_Pak_-_WILLOW_FHD.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/187760/image"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sl-W_Vs_Lns-W_-_WILLOW_FHD.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/377206/image"
         },
         {
-            "id": 77,
-            "title": "Gsl Vs Gsl - WILLOW FHD",
+            "id": 16,
+            "title": "Sl-W Vs Lns-W - CRICKET FHD",
             "category": "cricket",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Gsl_Vs_Gsl_-_WILLOW_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gsl%20Vs%20Gsl.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sl-W_Vs_Lns-W_-_CRICKET_FHD.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/377206/image"
         },
         {
-            "id": 78,
-            "title": "Gsl Vs Gsl - WILLOW HD",
+            "id": 17,
+            "title": "Sl-W Vs Lns-W - WILLOW ALT",
             "category": "cricket",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Gsl_Vs_Gsl_-_WILLOW_HD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gsl%20Vs%20Gsl.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sl-W_Vs_Lns-W_-_WILLOW_ALT.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/377206/image"
         },
         {
-            "id": 79,
-            "title": "Gsl Vs Gsl - WILLOW SD",
-            "category": "cricket",
-            "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Gsl_Vs_Gsl_-_WILLOW_SD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gsl%20Vs%20Gsl.jpg"
-        },
-        {
-            "id": 80,
-            "title": "Gsl Vs Gsl - SKY SPORT NZ",
-            "category": "cricket",
-            "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Gsl_Vs_Gsl_-_SKY_SPORT_NZ.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gsl%20Vs%20Gsl.jpg"
-        },
-        {
-            "id": 81,
-            "title": "Gsl Vs Gsl - WILLOW ALT",
+            "id": 18,
+            "title": "Sl-W Vs Lns-W - TAPMAD FHD",
             "category": "cricket",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Gsl_Vs_Gsl_-_WILLOW_ALT.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gsl%20Vs%20Gsl.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sl-W_Vs_Lns-W_-_TAPMAD_FHD.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/377206/image"
         },
         {
-            "id": 82,
-            "title": "Hull Vs Man Utd - Link 1",
-            "category": "football",
+            "id": 19,
+            "title": "Sl-W Vs Lns-W - SKY SPORT NZ",
+            "category": "cricket",
+            "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sl-W_Vs_Lns-W_-_SKY_SPORT_NZ.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/377206/image"
+        },
+        {
+            "id": 20,
+            "title": "Sl-W Vs Lns-W - FOX CRICKET HD",
+            "category": "cricket",
+            "stream_url": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sl-W_Vs_Lns-W_-_FOX_CRICKET_HD.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/377206/image"
+        },
+        {
+            "id": 21,
+            "title": "Sl-W Vs Lns-W - LOW SERVER",
+            "category": "cricket",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sl-W_Vs_Lns-W_-_LOW_SERVER.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/377206/image"
+        },
+        {
+            "id": 22,
+            "title": "Sl Vs Lns - Link 1",
+            "category": "cricket",
             "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Hull_Vs_Man_Utd_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/96/image"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sl_Vs_Lns_-_Link_1.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/377178/image"
         },
         {
-            "id": 83,
-            "title": "Everton Vs Crystal Palace - Link 1",
+            "id": 23,
+            "title": "Philippines Vs Thailand - HD SERVER",
             "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Everton_Vs_Crystal_Palace_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/48/image"
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Philippines_Vs_Thailand_-_HD_SERVER.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/4791/image"
         },
         {
-            "id": 84,
-            "title": "Ipswich Vs Sunderland - Link 1",
+            "id": 24,
+            "title": "Philippines Vs Thailand - LOW SERVER",
             "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Ipswich_Vs_Sunderland_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/32/image"
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Philippines_Vs_Thailand_-_LOW_SERVER.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/4791/image"
         },
         {
-            "id": 85,
-            "title": "Brentford Vs Tottenham - Link 1",
+            "id": 25,
+            "title": "Myanmar Vs Laos - LOW SERVER",
             "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Brentford_Vs_Tottenham_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/50/image"
-        },
-        {
-            "id": 86,
-            "title": "Man City Vs Bournemouth - Link 1",
-            "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Man_City_Vs_Bournemouth_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/17/image"
-        },
-        {
-            "id": 87,
-            "title": "Brighton Vs Aston Villa - Link 1",
-            "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Brighton_Vs_Aston_Villa_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/30/image"
-        },
-        {
-            "id": 88,
-            "title": "Arsenal Vs Coventry - Link 1",
-            "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Arsenal_Vs_Coventry_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/42/image"
-        },
-        {
-            "id": 89,
-            "title": "Forest Vs Leeds - Link 1",
-            "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Forest_Vs_Leeds_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/14/image"
-        },
-        {
-            "id": 90,
-            "title": "Alavés Vs Getafe - Link 1",
-            "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Alavés_Vs_Getafe_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/2885/image"
-        },
-        {
-            "id": 91,
-            "title": "Sevilla Vs Rayo Vallecano - Link 1",
-            "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sevilla_Vs_Rayo_Vallecano_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/2833/image"
-        },
-        {
-            "id": 92,
-            "title": "R. Racing Club Vs Villarreal - Link 1",
-            "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/R._Racing_Club_Vs_Villarreal_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/2835/image"
-        },
-        {
-            "id": 93,
-            "title": "Celta Vs Osasuna - Link 1",
-            "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Celta_Vs_Osasuna_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/2821/image"
-        },
-        {
-            "id": 94,
-            "title": "Espanyol Vs Levante - Link 1",
-            "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Espanyol_Vs_Levante_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/2814/image"
-        },
-        {
-            "id": 95,
-            "title": "Al Diriyah Vs Al-Ahli - Link 1",
-            "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Al_Diriyah_Vs_Al-Ahli_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/853574/image"
-        },
-        {
-            "id": 96,
-            "title": "Al-Shabab Vs Al-Qadsiah - Link 1",
-            "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Al-Shabab_Vs_Al-Qadsiah_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/34313/image"
-        },
-        {
-            "id": 97,
-            "title": "Abha Vs Al-Hazem - Link 1",
-            "category": "football",
-            "stream_url": "https://file.genoads.com/ch1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Abha_Vs_Al-Hazem_-_Link_1.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/168090/image"
-        },
-        {
-            "id": 98,
-            "title": "Formula 1 Vs Formula 1 - Sky via Apple TV FHD",
-            "category": "motorsport",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Formula_1_Vs_Formula_1_-_Sky_via_Apple_TV_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Formula%201%20Vs%20Formula%201.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Myanmar_Vs_Laos_-_LOW_SERVER.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/23484/image"
         },
         {
-            "id": 99,
-            "title": "Formula 1 Vs Formula 1 - TSN SPORTS FHD",
-            "category": "motorsport",
+            "id": 26,
+            "title": "World Feed",
+            "category": "tennis",
+            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/4248066_english_hls_f60cf3662559481_1ta-di_h264/index.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/World_Feed.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/World%20Feed.jpg"
+        },
+        {
+            "id": 27,
+            "title": "Rogers Court",
+            "category": "tennis",
+            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/4248067_english_hls_9d75ed2e2276858_1ta-di_h264/index.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Rogers_Court.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Rogers%20Court.jpg"
+        },
+        {
+            "id": 28,
+            "title": "Court 5",
+            "category": "tennis",
+            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/4248068_english_hls_469771a15198481_1ta-di_h264/index.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Court_5.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Court%205.jpg"
+        },
+        {
+            "id": 29,
+            "title": "Center Court",
+            "category": "tennis",
+            "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/index.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Center_Court.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Center%20Court.jpg"
+        },
+        {
+            "id": 30,
+            "title": "Atp Vs Wta - beIN ENGLISH (ATP)",
+            "category": "tennis",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Formula_1_Vs_Formula_1_-_TSN_SPORTS_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Formula%201%20Vs%20Formula%201.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Atp_Vs_Wta_-_beIN_ENGLISH_(ATP).jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atp%20Vs%20Wta.jpg"
         },
         {
-            "id": 100,
-            "title": "Formula 1 Vs Formula 1 - Formula 1 HD",
-            "category": "motorsport",
+            "id": 31,
+            "title": "Atp Vs Wta - beIN ENGLISH (WTA)",
+            "category": "tennis",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Formula_1_Vs_Formula_1_-_Formula_1_HD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Formula%201%20Vs%20Formula%201.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Atp_Vs_Wta_-_beIN_ENGLISH_(WTA).jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atp%20Vs%20Wta.jpg"
         },
         {
-            "id": 101,
-            "title": "Formula 1 Vs Formula 1 - SD SERVER",
-            "category": "motorsport",
+            "id": 32,
+            "title": "Atp Vs Wta - TENNIS 2 FHD",
+            "category": "tennis",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Formula_1_Vs_Formula_1_-_SD_SERVER.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Formula%201%20Vs%20Formula%201.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Atp_Vs_Wta_-_TENNIS_2_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atp%20Vs%20Wta.jpg"
         },
         {
-            "id": 102,
-            "title": "Formula 1 Vs Formula 1 - SportCast FHD",
-            "category": "motorsport",
-            "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c5c5563f-7794-4a2f-85eb-bec3f734a2f4/master.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Formula_1_Vs_Formula_1_-_SportCast_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Formula%201%20Vs%20Formula%201.jpg"
-        },
-        {
-            "id": 103,
-            "title": "Motogp Vs Motogp - FANCODE FHD",
-            "category": "motorsport",
+            "id": 33,
+            "title": "Atp Vs Wta - Montreal (ATP)",
+            "category": "tennis",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Motogp_Vs_Motogp_-_FANCODE_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Motogp%20Vs%20Motogp.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Atp_Vs_Wta_-_Montreal_(ATP).jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atp%20Vs%20Wta.jpg"
         },
         {
-            "id": 104,
-            "title": "Motogp Vs Motogp - SPO TV FHD",
-            "category": "motorsport",
+            "id": 34,
+            "title": "Atp Vs Wta - Toronto (WTA)",
+            "category": "tennis",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Motogp_Vs_Motogp_-_SPO_TV_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Motogp%20Vs%20Motogp.jpg"
-        },
-        {
-            "id": 105,
-            "title": "Motogp Vs Motogp - MotoGP FHD",
-            "category": "motorsport",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Motogp_Vs_Motogp_-_MotoGP_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Motogp%20Vs%20Motogp.jpg"
-        },
-        {
-            "id": 106,
-            "title": "Motogp Vs Motogp - NOW SPORTS FHD",
-            "category": "motorsport",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Motogp_Vs_Motogp_-_NOW_SPORTS_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Motogp%20Vs%20Motogp.jpg"
-        },
-        {
-            "id": 107,
-            "title": "Motogp Vs Motogp - TNT SPORTS SD",
-            "category": "motorsport",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Motogp_Vs_Motogp_-_TNT_SPORTS_SD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Motogp%20Vs%20Motogp.jpg"
-        },
-        {
-            "id": 108,
-            "title": "Motogp Vs Motogp - DAZN SPORTS",
-            "category": "motorsport",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Motogp_Vs_Motogp_-_DAZN_SPORTS.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Motogp%20Vs%20Motogp.jpg"
-        },
-        {
-            "id": 109,
-            "title": "Motogp Vs Motogp - CANAL+ HD",
-            "category": "motorsport",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Motogp_Vs_Motogp_-_CANAL+_HD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Motogp%20Vs%20Motogp.jpg"
-        },
-        {
-            "id": 110,
-            "title": "Motogp Vs Motogp - SD SERVER",
-            "category": "motorsport",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Motogp_Vs_Motogp_-_SD_SERVER.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Motogp%20Vs%20Motogp.jpg"
-        },
-        {
-            "id": 111,
-            "title": "Wwe Raw Vs Wwe Raw - WWE+ HD",
-            "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Wwe_Raw_Vs_Wwe_Raw_-_WWE+_HD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Wwe%20Raw%20Vs%20Wwe%20Raw.jpg"
-        },
-        {
-            "id": 112,
-            "title": "Wwe Raw Vs Wwe Raw - WWE HD",
-            "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Wwe_Raw_Vs_Wwe_Raw_-_WWE_HD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Wwe%20Raw%20Vs%20Wwe%20Raw.jpg"
-        },
-        {
-            "id": 113,
-            "title": "Wwe Raw Vs Wwe Raw - HD SERVER",
-            "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Wwe_Raw_Vs_Wwe_Raw_-_HD_SERVER.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Wwe%20Raw%20Vs%20Wwe%20Raw.jpg"
-        },
-        {
-            "id": 114,
-            "title": "Wwe Raw Vs Wwe Raw - SD SERVER",
-            "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Wwe_Raw_Vs_Wwe_Raw_-_SD_SERVER.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Wwe%20Raw%20Vs%20Wwe%20Raw.jpg"
-        },
-        {
-            "id": 115,
-            "title": "Wwe Nxt Vs Wwe Nxt - WWE NXT HD",
-            "category": "boxing",
-            "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Wwe_Nxt_Vs_Wwe_Nxt_-_WWE_NXT_HD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Wwe%20Nxt%20Vs%20Wwe%20Nxt.jpg"
-        },
-        {
-            "id": 116,
-            "title": "Wwe Nxt Vs Wwe Nxt - SD SERVER",
-            "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Wwe_Nxt_Vs_Wwe_Nxt_-_SD_SERVER.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Wwe%20Nxt%20Vs%20Wwe%20Nxt.jpg"
-        },
-        {
-            "id": 117,
-            "title": "Aew Vs Aew - TSN2 SPORTS FHD",
-            "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Aew_Vs_Aew_-_TSN2_SPORTS_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Aew%20Vs%20Aew.jpg"
-        },
-        {
-            "id": 118,
-            "title": "Aew Vs Aew - AEW LIVE HD",
-            "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Aew_Vs_Aew_-_AEW_LIVE_HD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Aew%20Vs%20Aew.jpg"
-        },
-        {
-            "id": 119,
-            "title": "Aew Vs Aew - FOX PREMIUM",
-            "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Aew_Vs_Aew_-_FOX_PREMIUM.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Aew%20Vs%20Aew.jpg"
-        },
-        {
-            "id": 120,
-            "title": "Aew Vs Aew - SD SERVER",
-            "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Aew_Vs_Aew_-_SD_SERVER.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Aew%20Vs%20Aew.jpg"
-        },
-        {
-            "id": 121,
-            "title": "Smackdown Vs Smackdown - WWE HD",
-            "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Smackdown_Vs_Smackdown_-_WWE_HD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Smackdown%20Vs%20Smackdown.jpg"
-        },
-        {
-            "id": 122,
-            "title": "Smackdown Vs Smackdown - WWE LIVE HD",
-            "category": "boxing",
-            "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Smackdown_Vs_Smackdown_-_WWE_LIVE_HD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Smackdown%20Vs%20Smackdown.jpg"
-        },
-        {
-            "id": 123,
-            "title": "Smackdown Vs Smackdown - SD SERVER",
-            "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Smackdown_Vs_Smackdown_-_SD_SERVER.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Smackdown%20Vs%20Smackdown.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Atp_Vs_Wta_-_Toronto_(WTA).jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atp%20Vs%20Wta.jpg"
         }
     ]
 }
