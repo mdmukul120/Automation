@@ -2,22 +2,86 @@
     "channels": [
         {
             "id": 1,
-            "title": "C And Barbuda Falcons Vs St Lucia Kings",
+            "title": "The Hundred W Vs The Hundred W - WILLOW FHD",
             "category": "cricket",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/C_And_Barbuda_Falcons_Vs_St_Lucia_Kings.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/C%20And%20Barbuda%20Falcons%20Vs%20St%20Lucia%20Kings.jpg"
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/The_Hundred_W_Vs_The_Hundred_W_-_WILLOW_FHD.jpg",
+            "logo": "https://img.sofascore.com/api/v1/unique-tournament/16717/image"
         },
         {
             "id": 2,
-            "title": "Sl-Xi Vs Ind - SONYLIV",
+            "title": "The Hundred W Vs The Hundred W - WILLOW ALT",
             "category": "cricket",
-            "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786207430~acl=/*~id=16695139551526506901251541115361~hmac=36fb389ead05454d15c10e46ffb6be410535793eed6dc5d461408c556c05892f",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sl-Xi_Vs_Ind_-_SONYLIV.jpg",
-            "logo": "https://img.sofascore.com/api/v1/team/187756/image"
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/The_Hundred_W_Vs_The_Hundred_W_-_WILLOW_ALT.jpg",
+            "logo": "https://img.sofascore.com/api/v1/unique-tournament/16717/image"
         },
         {
             "id": 3,
+            "title": "The Hundred W Vs The Hundred W - LOW SERVER",
+            "category": "cricket",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/The_Hundred_W_Vs_The_Hundred_W_-_LOW_SERVER.jpg",
+            "logo": "https://img.sofascore.com/api/v1/unique-tournament/16717/image"
+        },
+        {
+            "id": 4,
+            "title": "Ire Vs Afg - WILLOW FHD",
+            "category": "cricket",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Ire_Vs_Afg_-_WILLOW_FHD.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/187766/image"
+        },
+        {
+            "id": 5,
+            "title": "Ire Vs Afg - ATN SPORTS",
+            "category": "cricket",
+            "stream_url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Ire_Vs_Afg_-_ATN_SPORTS.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/187766/image"
+        },
+        {
+            "id": 6,
+            "title": "Ire Vs Afg - WILLOW ALT",
+            "category": "cricket",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Ire_Vs_Afg_-_WILLOW_ALT.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/187766/image"
+        },
+        {
+            "id": 7,
+            "title": "Ire Vs Afg - FANCODE (IND)",
+            "category": "cricket",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Ire_Vs_Afg_-_FANCODE_(IND).jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/187766/image"
+        },
+        {
+            "id": 8,
+            "title": "Calcutta Premier Division Vs Calcutta Premier Division - live",
+            "category": "football",
+            "stream_url": "https://live-n10.videostech.cloud/match/behalasssportingclub_vs_railwayfc/HLS/master.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Calcutta_Premier_Division_Vs_Calcutta_Premier_Division_-_live.jpg",
+            "logo": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark"
+        },
+        {
+            "id": 9,
+            "title": "Durand Cup Vs Durand Cup - Mohun Bagan SG vs CISF Protectors",
+            "category": "football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Durand_Cup_Vs_Durand_Cup_-_Mohun_Bagan_SG_vs_CISF_Protectors.jpg",
+            "logo": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark"
+        },
+        {
+            "id": 10,
+            "title": "Trt Vs Sob - Link 1",
+            "category": "cricket",
+            "stream_url": "https://file.genoads.com/ch1.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Trt_Vs_Sob_-_Link_1.jpg",
+            "logo": "https://img.sofascore.com/api/v1/team/377176/image"
+        },
+        {
+            "id": 11,
             "title": "Atp Vs Wta - beIN ENGLISH (ATP)",
             "category": "tennis",
             "stream_url": "",
@@ -25,7 +89,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atp%20Vs%20Wta.jpg"
         },
         {
-            "id": 4,
+            "id": 12,
             "title": "Atp Vs Wta - beIN ENGLISH (WTA)",
             "category": "tennis",
             "stream_url": "",
@@ -33,7 +97,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atp%20Vs%20Wta.jpg"
         },
         {
-            "id": 5,
+            "id": 13,
             "title": "Atp Vs Wta - TENNIS 2 FHD",
             "category": "tennis",
             "stream_url": "",
@@ -41,7 +105,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atp%20Vs%20Wta.jpg"
         },
         {
-            "id": 6,
+            "id": 14,
             "title": "Atp Vs Wta - Montreal (ATP)",
             "category": "tennis",
             "stream_url": "",
@@ -49,7 +113,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atp%20Vs%20Wta.jpg"
         },
         {
-            "id": 7,
+            "id": 15,
             "title": "Atp Vs Wta - Toronto (WTA)",
             "category": "tennis",
             "stream_url": "",
