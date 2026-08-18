@@ -2,14 +2,6 @@
     "channels": [
         {
             "id": 1,
-            "title": "St Lucia Kings Vs Barbados Tridents",
-            "category": "cricket",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/St_Lucia_Kings_Vs_Barbados_Tridents.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/St%20Lucia%20Kings%20Vs%20Barbados%20Tridents.jpg"
-        },
-        {
-            "id": 2,
             "title": "Cpl T20 Vs Cpl T20 - TNT SPORTS FHD",
             "category": "cricket",
             "stream_url": "",
@@ -17,7 +9,7 @@
             "logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
         },
         {
-            "id": 3,
+            "id": 2,
             "title": "Cpl T20 Vs Cpl T20 - FOX CRICKET HD",
             "category": "cricket",
             "stream_url": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
@@ -25,7 +17,7 @@
             "logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
         },
         {
-            "id": 4,
+            "id": 3,
             "title": "Cpl T20 Vs Cpl T20 - WILLOW HD",
             "category": "cricket",
             "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
@@ -33,7 +25,7 @@
             "logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
         },
         {
-            "id": 5,
+            "id": 4,
             "title": "Cpl T20 Vs Cpl T20 - WILLOW ALT",
             "category": "cricket",
             "stream_url": "",
@@ -41,7 +33,7 @@
             "logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
         },
         {
-            "id": 6,
+            "id": 5,
             "title": "Cpl T20 Vs Cpl T20 - SKY SPORTS NZ",
             "category": "cricket",
             "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xdfg.m3u8",
@@ -49,7 +41,7 @@
             "logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
         },
         {
-            "id": 7,
+            "id": 6,
             "title": "Cpl T20 Vs Cpl T20 - TAPMAD FHD",
             "category": "cricket",
             "stream_url": "",
@@ -57,7 +49,7 @@
             "logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
         },
         {
-            "id": 8,
+            "id": 7,
             "title": "Cpl T20 Vs Cpl T20 - FANCODE (IND)",
             "category": "cricket",
             "stream_url": "",
@@ -65,7 +57,7 @@
             "logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
         },
         {
-            "id": 9,
+            "id": 8,
             "title": "Aus Vs Ban - WILLOW FHD",
             "category": "cricket",
             "stream_url": "",
@@ -73,7 +65,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Aus%20Vs%20Ban.jpg"
         },
         {
-            "id": 10,
+            "id": 9,
             "title": "Aus Vs Ban - TAPMAD FHD",
             "category": "cricket",
             "stream_url": "",
@@ -81,7 +73,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Aus%20Vs%20Ban.jpg"
         },
         {
-            "id": 11,
+            "id": 10,
             "title": "Aus Vs Ban - HD SERVER",
             "category": "cricket",
             "stream_url": "",
@@ -89,7 +81,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Aus%20Vs%20Ban.jpg"
         },
         {
-            "id": 12,
+            "id": 11,
             "title": "Aus Vs Ban - WILLOW ALT",
             "category": "cricket",
             "stream_url": "",
@@ -97,7 +89,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Aus%20Vs%20Ban.jpg"
         },
         {
-            "id": 13,
+            "id": 12,
             "title": "Aus Vs Ban - LOW SERVER",
             "category": "cricket",
             "stream_url": "",
@@ -105,7 +97,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Aus%20Vs%20Ban.jpg"
         },
         {
-            "id": 14,
+            "id": 13,
             "title": "Aus Vs Ban - FAST SERVER",
             "category": "cricket",
             "stream_url": "",
@@ -113,7 +105,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Aus%20Vs%20Ban.jpg"
         },
         {
-            "id": 15,
+            "id": 14,
             "title": "Aus Vs Ban - SD SERVER",
             "category": "cricket",
             "stream_url": "http://162.251.160.53:8089/BANvsAUS1/index.m3u8",
@@ -121,7 +113,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Aus%20Vs%20Ban.jpg"
         },
         {
-            "id": 16,
+            "id": 15,
             "title": "Aus Vs Ban - TAPMAD [PK 🇵🇰]",
             "category": "cricket",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8",
@@ -129,7 +121,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Aus%20Vs%20Ban.jpg"
         },
         {
-            "id": 17,
+            "id": 16,
             "title": "Aus Vs Ban - WILLOW HD",
             "category": "cricket",
             "stream_url": "",
@@ -137,7 +129,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Aus%20Vs%20Ban.jpg"
         },
         {
-            "id": 18,
+            "id": 17,
             "title": "Aus Vs Ban - SKY SPORT HD",
             "category": "cricket",
             "stream_url": "https://latestmovies.net/api/live/playlist/592?.m3u8",
@@ -145,7 +137,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Aus%20Vs%20Ban.jpg"
         },
         {
-            "id": 19,
+            "id": 18,
             "title": "The Hundred W Vs The Hundred W - WILLOW FHD",
             "category": "cricket",
             "stream_url": "",
@@ -153,7 +145,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/The%20Hundred%20W%20Vs%20The%20Hundred%20W.jpg"
         },
         {
-            "id": 20,
+            "id": 19,
             "title": "The Hundred W Vs The Hundred W - CRICKET FHD",
             "category": "cricket",
             "stream_url": "",
@@ -161,7 +153,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/The%20Hundred%20W%20Vs%20The%20Hundred%20W.jpg"
         },
         {
-            "id": 21,
+            "id": 20,
             "title": "The Hundred W Vs The Hundred W - WILLOW ALT",
             "category": "cricket",
             "stream_url": "",
@@ -169,7 +161,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/The%20Hundred%20W%20Vs%20The%20Hundred%20W.jpg"
         },
         {
-            "id": 22,
+            "id": 21,
             "title": "The Hundred W Vs The Hundred W - LOW SERVER",
             "category": "cricket",
             "stream_url": "",
@@ -177,7 +169,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/The%20Hundred%20W%20Vs%20The%20Hundred%20W.jpg"
         },
         {
-            "id": 23,
+            "id": 22,
             "title": "Sevilla Vs Rayo Vallecano - beiN ENGLISH FHD",
             "category": "football",
             "stream_url": "",
@@ -185,7 +177,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sevilla%20Vs%20Rayo%20Vallecano.jpg"
         },
         {
-            "id": 24,
+            "id": 23,
             "title": "Sevilla Vs Rayo Vallecano - PREMIER SPORTS FHD",
             "category": "football",
             "stream_url": "",
@@ -193,7 +185,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sevilla%20Vs%20Rayo%20Vallecano.jpg"
         },
         {
-            "id": 25,
+            "id": 24,
             "title": "Sevilla Vs Rayo Vallecano - FANCODE FHD",
             "category": "football",
             "stream_url": "",
@@ -201,7 +193,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sevilla%20Vs%20Rayo%20Vallecano.jpg"
         },
         {
-            "id": 26,
+            "id": 25,
             "title": "Sevilla Vs Rayo Vallecano - HD SERVER",
             "category": "football",
             "stream_url": "https://hls.live123.fans/live/4565324.m3u8",
@@ -209,7 +201,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sevilla%20Vs%20Rayo%20Vallecano.jpg"
         },
         {
-            "id": 27,
+            "id": 26,
             "title": "R. Racing Club Vs Villarreal - Link 1",
             "category": "football",
             "stream_url": "https://file.genoads.com/ch1.m3u8",
@@ -217,7 +209,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/R.%20Racing%20Club%20Vs%20Villarreal.jpg"
         },
         {
-            "id": 28,
+            "id": 27,
             "title": "Espanyol Vs Levante - Link 1",
             "category": "football",
             "stream_url": "https://file.genoads.com/ch1.m3u8",
@@ -225,7 +217,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Espanyol%20Vs%20Levante.jpg"
         },
         {
-            "id": 29,
+            "id": 28,
             "title": "Trt Vs Msg - Link 1",
             "category": "cricket",
             "stream_url": "https://file.genoads.com/ch1.m3u8",
@@ -233,7 +225,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Trt%20Vs%20Msg.jpg"
         },
         {
-            "id": 30,
+            "id": 29,
             "title": "Al-Nassr Vs Al-Fateh - FANCODE FHD",
             "category": "football",
             "stream_url": "",
@@ -241,7 +233,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Nassr%20Vs%20Al-Fateh.jpg"
         },
         {
-            "id": 31,
+            "id": 30,
             "title": "Al-Nassr Vs Al-Fateh - FOX DEPORTES FHD",
             "category": "football",
             "stream_url": "",
@@ -249,7 +241,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Nassr%20Vs%20Al-Fateh.jpg"
         },
         {
-            "id": 32,
+            "id": 31,
             "title": "Al-Nassr Vs Al-Fateh - SporTV BR FHD",
             "category": "football",
             "stream_url": "",
@@ -257,7 +249,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Nassr%20Vs%20Al-Fateh.jpg"
         },
         {
-            "id": 33,
+            "id": 32,
             "title": "Al-Nassr Vs Al-Fateh - SPORT TV HD",
             "category": "football",
             "stream_url": "",
@@ -265,7 +257,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Nassr%20Vs%20Al-Fateh.jpg"
         },
         {
-            "id": 34,
+            "id": 33,
             "title": "Al-Nassr Vs Al-Fateh - SD QUALITY",
             "category": "football",
             "stream_url": "https://hwyypull.ncctrials.com/live/stream-617898_lsd.flv?auth_key=1786808242-0-0-e3741286d61a7491bc5e0b3011f76bd2",
@@ -273,7 +265,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Nassr%20Vs%20Al-Fateh.jpg"
         },
         {
-            "id": 35,
+            "id": 34,
             "title": "Al-Ittihad Vs Al-Kholood - HD QUALITY",
             "category": "football",
             "stream_url": "https://stream.sports3.win/iptv/live/signal-4599547-37819.m3u8",
@@ -281,7 +273,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Ittihad%20Vs%20Al-Kholood.jpg"
         },
         {
-            "id": 36,
+            "id": 35,
             "title": "Al-Ittihad Vs Al-Kholood - FANCODE [IND]",
             "category": "football",
             "stream_url": "https://paste.centos.org/view/raw/2d5413f6#.m3u8",
@@ -289,7 +281,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Ittihad%20Vs%20Al-Kholood.jpg"
         },
         {
-            "id": 37,
+            "id": 36,
             "title": "Al-Ittihad Vs Al-Kholood - FANCODE [BD]",
             "category": "football",
             "stream_url": "https://paste.centos.org/view/raw/8a6757d7#.m3u8",
@@ -297,7 +289,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Ittihad%20Vs%20Al-Kholood.jpg"
         },
         {
-            "id": 38,
+            "id": 37,
             "title": "Al-Ittihad Vs Al-Kholood - SD SERVER",
             "category": "football",
             "stream_url": "",
@@ -305,7 +297,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Ittihad%20Vs%20Al-Kholood.jpg"
         },
         {
-            "id": 39,
+            "id": 38,
             "title": "Excelsior Vs Psv - SportDigital Fussball",
             "category": "football",
             "stream_url": "",
@@ -313,7 +305,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Excelsior%20Vs%20Psv.jpg"
         },
         {
-            "id": 40,
+            "id": 39,
             "title": "Excelsior Vs Psv - HD SERVER",
             "category": "football",
             "stream_url": "",
@@ -321,7 +313,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Excelsior%20Vs%20Psv.jpg"
         },
         {
-            "id": 41,
+            "id": 40,
             "title": "Excelsior Vs Psv - SD QUALITY",
             "category": "football",
             "stream_url": "http://162.251.160.53:8089/954/index.m3u8",
@@ -329,7 +321,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Excelsior%20Vs%20Psv.jpg"
         },
         {
-            "id": 42,
+            "id": 41,
             "title": "Los Angeles Vs San Diego - Link 1",
             "category": "football",
             "stream_url": "https://file.genoads.com/ch1.m3u8",
@@ -337,7 +329,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Los%20Angeles%20Vs%20San%20Diego.jpg"
         },
         {
-            "id": 43,
+            "id": 42,
             "title": "Rio Ave Vs Porto - SPORT TV HD",
             "category": "football",
             "stream_url": "",
@@ -345,7 +337,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Rio%20Ave%20Vs%20Porto.jpg"
         },
         {
-            "id": 44,
+            "id": 43,
             "title": "Rio Ave Vs Porto - beiN SPORTS ES",
             "category": "football",
             "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
@@ -353,7 +345,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Rio%20Ave%20Vs%20Porto.jpg"
         },
         {
-            "id": 45,
+            "id": 44,
             "title": "Ado Vs Groningen - Link 1",
             "category": "football",
             "stream_url": "https://file.genoads.com/ch1.m3u8",
@@ -361,7 +353,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Ado%20Vs%20Groningen.jpg"
         },
         {
-            "id": 46,
+            "id": 45,
             "title": "Monterrey Vs Juárez - Link 1",
             "category": "football",
             "stream_url": "https://file.genoads.com/ch1.m3u8",
@@ -369,7 +361,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Monterrey%20Vs%20Ju%C3%A1rez.jpg"
         },
         {
-            "id": 47,
+            "id": 46,
             "title": "Kaiserslautern Vs Karlsruhe - HD SERVER",
             "category": "football",
             "stream_url": "https://stream.sports3.win/iptv/live/signal-4566593-37824.m3u8",
@@ -377,7 +369,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kaiserslautern%20Vs%20Karlsruhe.jpg"
         },
         {
-            "id": 48,
+            "id": 47,
             "title": "Kaiserslautern Vs Karlsruhe - LOW QUALITY",
             "category": "football",
             "stream_url": "",
@@ -385,7 +377,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kaiserslautern%20Vs%20Karlsruhe.jpg"
         },
         {
-            "id": 49,
+            "id": 48,
             "title": "Gaziantep Vs Alanyaspor - LIVE SERVER",
             "category": "football",
             "stream_url": "https://hls.live123.fans/live/4581273.m3u8",
@@ -393,7 +385,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gaziantep%20Vs%20Alanyaspor.jpg"
         },
         {
-            "id": 50,
+            "id": 49,
             "title": "Gaziantep Vs Alanyaspor - HD QUALITY",
             "category": "football",
             "stream_url": "https://stream.sports3.win/iptv/live/signal-4581273-37826.m3u8",
@@ -401,7 +393,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gaziantep%20Vs%20Alanyaspor.jpg"
         },
         {
-            "id": 51,
+            "id": 50,
             "title": "Gaziantep Vs Alanyaspor - LOW QUALITY",
             "category": "football",
             "stream_url": "",
@@ -409,7 +401,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gaziantep%20Vs%20Alanyaspor.jpg"
         },
         {
-            "id": 52,
+            "id": 51,
             "title": "Cavalry Vs Forge - Link 1",
             "category": "football",
             "stream_url": "https://file.genoads.com/ch1.m3u8",
@@ -417,7 +409,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Cavalry%20Vs%20Forge.jpg"
         },
         {
-            "id": 53,
+            "id": 52,
             "title": "Atlas Vs Tigres - Link 1",
             "category": "football",
             "stream_url": "https://file.genoads.com/ch1.m3u8",
@@ -425,7 +417,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atlas%20Vs%20Tigres.jpg"
         },
         {
-            "id": 54,
+            "id": 53,
             "title": "Fluminense Vs Palmeiras - PREMIERE BR FHD",
             "category": "football",
             "stream_url": "",
@@ -433,7 +425,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Fluminense%20Vs%20Palmeiras.jpg"
         },
         {
-            "id": 55,
+            "id": 54,
             "title": "Fluminense Vs Palmeiras - PREMIER SPORTS FHD",
             "category": "football",
             "stream_url": "",
@@ -441,7 +433,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Fluminense%20Vs%20Palmeiras.jpg"
         },
         {
-            "id": 56,
+            "id": 55,
             "title": "Mallorca Vs Real Valladolid - LaLiga Hypermotion Es",
             "category": "football",
             "stream_url": "",
@@ -449,7 +441,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Mallorca%20Vs%20Real%20Valladolid.jpg"
         },
         {
-            "id": 57,
+            "id": 56,
             "title": "Fortuna Vs Cambuur - HD SERVER",
             "category": "football",
             "stream_url": "",
@@ -457,7 +449,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Fortuna%20Vs%20Cambuur.jpg"
         },
         {
-            "id": 58,
+            "id": 57,
             "title": "Gençlerbirliği Vs Fenerbahçe - beiN SPORTS FHD",
             "category": "football",
             "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8",
@@ -465,7 +457,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gen%C3%A7lerbirli%C4%9Fi%20Vs%20Fenerbah%C3%A7e.jpg"
         },
         {
-            "id": 59,
+            "id": 58,
             "title": "Gençlerbirliği Vs Fenerbahçe - HD SERVER",
             "category": "football",
             "stream_url": "https://stream.sports3.win/iptv/live/signal-4581274-37827.m3u8",
@@ -473,7 +465,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gen%C3%A7lerbirli%C4%9Fi%20Vs%20Fenerbah%C3%A7e.jpg"
         },
         {
-            "id": 60,
+            "id": 59,
             "title": "Gençlerbirliği Vs Fenerbahçe - LOW QUALITY",
             "category": "football",
             "stream_url": "",
@@ -481,7 +473,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gen%C3%A7lerbirli%C4%9Fi%20Vs%20Fenerbah%C3%A7e.jpg"
         },
         {
-            "id": 61,
+            "id": 60,
             "title": "Athletico Vs Rb Bragantino - SportDigital Fussball",
             "category": "football",
             "stream_url": "",
@@ -489,7 +481,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Athletico%20Vs%20Rb%20Bragantino.jpg"
         },
         {
-            "id": 62,
+            "id": 61,
             "title": "Atlante Vs Toluca - Link 1",
             "category": "football",
             "stream_url": "https://file.genoads.com/ch1.m3u8",
@@ -497,7 +489,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atlante%20Vs%20Toluca.jpg"
         },
         {
-            "id": 63,
+            "id": 62,
             "title": "Nashville Vs Inter Miami - HD SERVER",
             "category": "football",
             "stream_url": "",
@@ -505,7 +497,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Nashville%20Vs%20Inter%20Miami.jpg"
         },
         {
-            "id": 64,
+            "id": 63,
             "title": "Nashville Vs Inter Miami - SD SERVER",
             "category": "football",
             "stream_url": "",
@@ -513,7 +505,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Nashville%20Vs%20Inter%20Miami.jpg"
         },
         {
-            "id": 65,
+            "id": 64,
             "title": "São Paulo Vs Coritiba - PREMIERE BR FHD",
             "category": "football",
             "stream_url": "",
@@ -521,7 +513,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/S%C3%A3o%20Paulo%20Vs%20Coritiba.jpg"
         },
         {
-            "id": 66,
+            "id": 65,
             "title": "São Paulo Vs Coritiba - SPORT TV FHD",
             "category": "football",
             "stream_url": "",
@@ -529,7 +521,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/S%C3%A3o%20Paulo%20Vs%20Coritiba.jpg"
         },
         {
-            "id": 67,
+            "id": 66,
             "title": "Torino Vs Carrarese - PREMIER SPORTS FHD",
             "category": "football",
             "stream_url": "",
@@ -537,7 +529,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Torino%20Vs%20Carrarese.jpg"
         },
         {
-            "id": 68,
+            "id": 67,
             "title": "Torino Vs Carrarese - ITALIA 1 FHD",
             "category": "football",
             "stream_url": "",
@@ -545,7 +537,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Torino%20Vs%20Carrarese.jpg"
         },
         {
-            "id": 69,
+            "id": 68,
             "title": "Torino Vs Carrarese - D SPORTS FHD",
             "category": "football",
             "stream_url": "",
@@ -553,7 +545,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Torino%20Vs%20Carrarese.jpg"
         },
         {
-            "id": 70,
+            "id": 69,
             "title": "Venezia Vs Modena - D SPORTS FHD",
             "category": "football",
             "stream_url": "",
@@ -561,7 +553,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Venezia%20Vs%20Modena.jpg"
         },
         {
-            "id": 71,
+            "id": 70,
             "title": "Venezia Vs Modena - PREMIER SPORTS FHD",
             "category": "football",
             "stream_url": "",
@@ -569,7 +561,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Venezia%20Vs%20Modena.jpg"
         },
         {
-            "id": 72,
+            "id": 71,
             "title": "Venezia Vs Modena - HD SERVER",
             "category": "football",
             "stream_url": "https://stream.sports3.win/iptv/live/signal-4564318-37832.m3u8",
@@ -577,7 +569,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Venezia%20Vs%20Modena.jpg"
         },
         {
-            "id": 73,
+            "id": 72,
             "title": "Venezia Vs Modena - HD QUALITY",
             "category": "football",
             "stream_url": "https://hls.live123.fans/live/4564318.m3u8",
@@ -585,7 +577,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Venezia%20Vs%20Modena.jpg"
         },
         {
-            "id": 74,
+            "id": 73,
             "title": "Venezia Vs Modena - LOW QUALITY",
             "category": "football",
             "stream_url": "",
@@ -593,7 +585,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Venezia%20Vs%20Modena.jpg"
         },
         {
-            "id": 75,
+            "id": 74,
             "title": "Guardians Vs Padres - HD QUALITY",
             "category": "baseball",
             "stream_url": "",
@@ -601,7 +593,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Guardians%20Vs%20Padres.jpg"
         },
         {
-            "id": 76,
+            "id": 75,
             "title": "Pirates Vs Red Sox - HD QUALITY",
             "category": "baseball",
             "stream_url": "",
@@ -609,7 +601,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pirates%20Vs%20Red%20Sox.jpg"
         },
         {
-            "id": 77,
+            "id": 76,
             "title": "Reds Vs Marlins - HD QUALITY",
             "category": "baseball",
             "stream_url": "",
@@ -617,7 +609,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Reds%20Vs%20Marlins.jpg"
         },
         {
-            "id": 78,
+            "id": 77,
             "title": "Blue Jays Vs Yankees - HD SERVER",
             "category": "baseball",
             "stream_url": "",
@@ -625,7 +617,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Blue%20Jays%20Vs%20Yankees.jpg"
         },
         {
-            "id": 79,
+            "id": 78,
             "title": "Dodgers Vs Brewers - HD QUALITY",
             "category": "baseball",
             "stream_url": "",
@@ -633,7 +625,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Dodgers%20Vs%20Brewers.jpg"
         },
         {
-            "id": 80,
+            "id": 79,
             "title": "Twins Vs Phillies - HD QUALITY",
             "category": "baseball",
             "stream_url": "",
@@ -641,7 +633,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Twins%20Vs%20Phillies.jpg"
         },
         {
-            "id": 81,
+            "id": 80,
             "title": "Athletics Vs Rangers - Link 1",
             "category": "baseball",
             "stream_url": "https://file.genoads.com/ch1.m3u8",
@@ -649,7 +641,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Athletics%20Vs%20Rangers.jpg"
         },
         {
-            "id": 82,
+            "id": 81,
             "title": "Giants Vs Rockies - HD QUALITY",
             "category": "baseball",
             "stream_url": "",
@@ -657,7 +649,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Giants%20Vs%20Rockies.jpg"
         },
         {
-            "id": 83,
+            "id": 82,
             "title": "Rays Vs Orioles - HD QUALITY",
             "category": "baseball",
             "stream_url": "",
@@ -665,7 +657,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Rays%20Vs%20Orioles.jpg"
         },
         {
-            "id": 84,
+            "id": 83,
             "title": "Cubs Vs Cardinals - HD QUALITY",
             "category": "baseball",
             "stream_url": "",
@@ -673,7 +665,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Cubs%20Vs%20Cardinals.jpg"
         },
         {
-            "id": 85,
+            "id": 84,
             "title": "Braves Vs Diamondbacks - HD QUALITY",
             "category": "baseball",
             "stream_url": "",
@@ -681,7 +673,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Braves%20Vs%20Diamondbacks.jpg"
         },
         {
-            "id": 86,
+            "id": 85,
             "title": "Mets Vs Nationals - HD QUALITY",
             "category": "baseball",
             "stream_url": "",
@@ -689,7 +681,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Mets%20Vs%20Nationals.jpg"
         },
         {
-            "id": 87,
+            "id": 86,
             "title": "Astros Vs Mariners - HD QUALITY",
             "category": "baseball",
             "stream_url": "",
@@ -697,7 +689,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Astros%20Vs%20Mariners.jpg"
         },
         {
-            "id": 88,
+            "id": 87,
             "title": "Angels Vs Royals - Link 1",
             "category": "baseball",
             "stream_url": "https://file.genoads.com/ch1.m3u8",
@@ -705,7 +697,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Angels%20Vs%20Royals.jpg"
         },
         {
-            "id": 89,
+            "id": 88,
             "title": "Saints Vs Jaguars - HD QUALITY",
             "category": "american football",
             "stream_url": "",
@@ -713,7 +705,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Saints%20Vs%20Jaguars.jpg"
         },
         {
-            "id": 90,
+            "id": 89,
             "title": "Seahawks Vs Cowboys - HD QUALITY",
             "category": "american football",
             "stream_url": "",
@@ -721,7 +713,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Seahawks%20Vs%20Cowboys.jpg"
         },
         {
-            "id": 91,
+            "id": 90,
             "title": "Chiefs Vs Rams - HD QUALITY",
             "category": "american football",
             "stream_url": "",
@@ -729,7 +721,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Chiefs%20Vs%20Rams.jpg"
         },
         {
-            "id": 92,
+            "id": 91,
             "title": "Hamilton Vs Saskatchewan - Link 1",
             "category": "american football",
             "stream_url": "https://file.genoads.com/ch1.m3u8",
@@ -737,7 +729,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Hamilton%20Vs%20Saskatchewan.jpg"
         },
         {
-            "id": 93,
+            "id": 92,
             "title": "Ravens Vs Eagles - HD QUALITY",
             "category": "american football",
             "stream_url": "",
@@ -745,7 +737,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Ravens%20Vs%20Eagles.jpg"
         },
         {
-            "id": 94,
+            "id": 93,
             "title": "Edmonton Vs Toronto - HD SERVER",
             "category": "american football",
             "stream_url": "",
