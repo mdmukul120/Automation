@@ -2,86 +2,214 @@
     "channels": [
         {
             "id": 1,
-            "title": "Seattle Mariners Vs Athletics",
-            "category": "baseball",
+            "title": "Bay FC Vs Kansas City Current",
+            "category": "football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Seattle_Mariners_Vs_Athletics.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Seattle%20Mariners%20Vs%20Athletics.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Bay_FC_Vs_Kansas_City_Current.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Bay%20FC%20Vs%20Kansas%20City%20Current.jpg"
         },
         {
             "id": 2,
-            "title": "Seattle Mariners Vs Athletics",
-            "category": "baseball",
+            "title": "Bay FC Vs Kansas City Current",
+            "category": "football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Seattle_Mariners_Vs_Athletics.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Seattle%20Mariners%20Vs%20Athletics.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Bay_FC_Vs_Kansas_City_Current.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Bay%20FC%20Vs%20Kansas%20City%20Current.jpg"
         },
         {
             "id": 3,
-            "title": "Seattle Mariners Vs Athletics",
+            "title": "San Diego Padres Vs New York Yankees",
             "category": "baseball",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Seattle_Mariners_Vs_Athletics.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Seattle%20Mariners%20Vs%20Athletics.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/San_Diego_Padres_Vs_New_York_Yankees.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/San%20Diego%20Padres%20Vs%20New%20York%20Yankees.jpg"
         },
         {
             "id": 4,
-            "title": "Deportivo Pereira Vs Independiente Medellín",
-            "category": "football",
+            "title": "San Diego Padres Vs New York Yankees",
+            "category": "baseball",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Deportivo_Pereira_Vs_Independiente_Medellín.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Deportivo%20Pereira%20Vs%20Independiente%20Medell%C3%ADn.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/San_Diego_Padres_Vs_New_York_Yankees.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/San%20Diego%20Padres%20Vs%20New%20York%20Yankees.jpg"
         },
         {
             "id": 5,
-            "title": "Utah Utes Vs Idaho Vandals",
-            "category": "american football",
+            "title": "San Diego Padres Vs New York Yankees",
+            "category": "baseball",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Utah_Utes_Vs_Idaho_Vandals.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Utes%20Vs%20Idaho%20Vandals.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/San_Diego_Padres_Vs_New_York_Yankees.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/San%20Diego%20Padres%20Vs%20New%20York%20Yankees.jpg"
         },
         {
             "id": 6,
-            "title": "Utah Utes Vs Idaho Vandals",
-            "category": "american football",
+            "title": "Utah Royals FC Vs Boston Legacy FC",
+            "category": "football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Utah_Utes_Vs_Idaho_Vandals.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Utes%20Vs%20Idaho%20Vandals.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Utah_Royals_FC_Vs_Boston_Legacy_FC.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Royals%20FC%20Vs%20Boston%20Legacy%20FC.jpg"
         },
         {
             "id": 7,
-            "title": "Illinois Fighting Illini Vs UAB Blazers",
-            "category": "american football",
+            "title": "Utah Royals FC Vs Boston Legacy FC",
+            "category": "football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Illinois_Fighting_Illini_Vs_UAB_Blazers.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Illinois%20Fighting%20Illini%20Vs%20UAB%20Blazers.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Utah_Royals_FC_Vs_Boston_Legacy_FC.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Royals%20FC%20Vs%20Boston%20Legacy%20FC.jpg"
         },
         {
             "id": 8,
-            "title": "Illinois Fighting Illini Vs UAB Blazers",
-            "category": "american football",
+            "title": "Club Puebla Vs CD Toluca",
+            "category": "football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Illinois_Fighting_Illini_Vs_UAB_Blazers.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Illinois%20Fighting%20Illini%20Vs%20UAB%20Blazers.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Club_Puebla_Vs_CD_Toluca.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Club%20Puebla%20Vs%20CD%20Toluca.jpg"
         },
         {
             "id": 9,
-            "title": "Texas Rangers Vs Tampa Bay Rays",
-            "category": "baseball",
+            "title": "Stanford Cardinal Vs Miami Hurricanes",
+            "category": "american football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Texas_Rangers_Vs_Tampa_Bay_Rays.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Texas%20Rangers%20Vs%20Tampa%20Bay%20Rays.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Stanford_Cardinal_Vs_Miami_Hurricanes.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Stanford%20Cardinal%20Vs%20Miami%20Hurricanes.jpg"
         },
         {
             "id": 10,
-            "title": "Texas Rangers Vs Tampa Bay Rays",
-            "category": "baseball",
+            "title": "Stanford Cardinal Vs Miami Hurricanes",
+            "category": "american football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Texas_Rangers_Vs_Tampa_Bay_Rays.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Texas%20Rangers%20Vs%20Tampa%20Bay%20Rays.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Stanford_Cardinal_Vs_Miami_Hurricanes.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Stanford%20Cardinal%20Vs%20Miami%20Hurricanes.jpg"
         },
         {
             "id": 11,
+            "title": "USC Trojans Vs Fresno State Bulldogs",
+            "category": "american football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/USC_Trojans_Vs_Fresno_State_Bulldogs.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/USC%20Trojans%20Vs%20Fresno%20State%20Bulldogs.jpg"
+        },
+        {
+            "id": 12,
+            "title": "USC Trojans Vs Fresno State Bulldogs",
+            "category": "american football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/USC_Trojans_Vs_Fresno_State_Bulldogs.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/USC%20Trojans%20Vs%20Fresno%20State%20Bulldogs.jpg"
+        },
+        {
+            "id": 13,
+            "title": "Colorado Rockies Vs St. Louis Cardinals",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Colorado_Rockies_Vs_St._Louis_Cardinals.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Colorado%20Rockies%20Vs%20St.%20Louis%20Cardinals.jpg"
+        },
+        {
+            "id": 14,
+            "title": "Colorado Rockies Vs St. Louis Cardinals",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Colorado_Rockies_Vs_St._Louis_Cardinals.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Colorado%20Rockies%20Vs%20St.%20Louis%20Cardinals.jpg"
+        },
+        {
+            "id": 15,
+            "title": "Colorado Rockies Vs St. Louis Cardinals",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Colorado_Rockies_Vs_St._Louis_Cardinals.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Colorado%20Rockies%20Vs%20St.%20Louis%20Cardinals.jpg"
+        },
+        {
+            "id": 16,
+            "title": "Deportes Concepción Vs Audax Italiano",
+            "category": "football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Deportes_Concepción_Vs_Audax_Italiano.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Deportes%20Concepci%C3%B3n%20Vs%20Audax%20Italiano.jpg"
+        },
+        {
+            "id": 17,
+            "title": "Técnico Universitario Vs LDU",
+            "category": "football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Técnico_Universitario_Vs_LDU.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/T%C3%A9cnico%20Universitario%20Vs%20LDU.jpg"
+        },
+        {
+            "id": 18,
+            "title": "Técnico Universitario Vs LDU",
+            "category": "football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Técnico_Universitario_Vs_LDU.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/T%C3%A9cnico%20Universitario%20Vs%20LDU.jpg"
+        },
+        {
+            "id": 19,
+            "title": "Kansas City Royals Vs Toronto Blue Jays",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Kansas_City_Royals_Vs_Toronto_Blue_Jays.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kansas%20City%20Royals%20Vs%20Toronto%20Blue%20Jays.jpg"
+        },
+        {
+            "id": 20,
+            "title": "Kansas City Royals Vs Toronto Blue Jays",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Kansas_City_Royals_Vs_Toronto_Blue_Jays.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kansas%20City%20Royals%20Vs%20Toronto%20Blue%20Jays.jpg"
+        },
+        {
+            "id": 21,
+            "title": "Kansas City Royals Vs Toronto Blue Jays",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Kansas_City_Royals_Vs_Toronto_Blue_Jays.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kansas%20City%20Royals%20Vs%20Toronto%20Blue%20Jays.jpg"
+        },
+        {
+            "id": 22,
+            "title": "Houston Astros Vs Arizona Diamondbacks",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Houston_Astros_Vs_Arizona_Diamondbacks.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Houston%20Astros%20Vs%20Arizona%20Diamondbacks.jpg"
+        },
+        {
+            "id": 23,
+            "title": "Houston Astros Vs Arizona Diamondbacks",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Houston_Astros_Vs_Arizona_Diamondbacks.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Houston%20Astros%20Vs%20Arizona%20Diamondbacks.jpg"
+        },
+        {
+            "id": 24,
+            "title": "Houston Astros Vs Arizona Diamondbacks",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Houston_Astros_Vs_Arizona_Diamondbacks.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Houston%20Astros%20Vs%20Arizona%20Diamondbacks.jpg"
+        },
+        {
+            "id": 25,
+            "title": "UFC EVENTO Vs UFC EVENTO",
+            "category": "boxing",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/UFC_EVENTO_Vs_UFC_EVENTO.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/UFC%20EVENTO%20Vs%20UFC%20EVENTO.jpg"
+        },
+        {
+            "id": 26,
+            "title": "UFC EVENTO Vs UFC EVENTO",
+            "category": "boxing",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/UFC_EVENTO_Vs_UFC_EVENTO.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/UFC%20EVENTO%20Vs%20UFC%20EVENTO.jpg"
+        },
+        {
+            "id": 27,
             "title": "Texas Rangers Vs Tampa Bay Rays",
             "category": "baseball",
             "stream_url": "",
@@ -89,223 +217,279 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Texas%20Rangers%20Vs%20Tampa%20Bay%20Rays.jpg"
         },
         {
-            "id": 12,
-            "title": "TNA iMPACT Vs TNA iMPACT",
-            "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TNA_iMPACT_Vs_TNA_iMPACT.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TNA%20iMPACT%20Vs%20TNA%20iMPACT.jpg"
-        },
-        {
-            "id": 13,
-            "title": "Libertad FC Vs Emelec",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Libertad_FC_Vs_Emelec.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Libertad%20FC%20Vs%20Emelec.jpg"
-        },
-        {
-            "id": 14,
-            "title": "Cavalier FC Vs Portmore United FC",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Cavalier_FC_Vs_Portmore_United_FC.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Cavalier%20FC%20Vs%20Portmore%20United%20FC.jpg"
-        },
-        {
-            "id": 15,
-            "title": "Cavalier FC Vs Portmore United FC",
-            "category": "football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Cavalier_FC_Vs_Portmore_United_FC.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Cavalier%20FC%20Vs%20Portmore%20United%20FC.jpg"
-        },
-        {
-            "id": 16,
-            "title": "Missouri Tigers Vs Arkansas-Pine Bluff Golden Lions",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Missouri_Tigers_Vs_Arkansas-Pine_Bluff_Golden_Lions.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Missouri%20Tigers%20Vs%20Arkansas-Pine%20Bluff%20Golden%20Lions.jpg"
-        },
-        {
-            "id": 17,
-            "title": "Missouri Tigers Vs Arkansas-Pine Bluff Golden Lions",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Missouri_Tigers_Vs_Arkansas-Pine_Bluff_Golden_Lions.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Missouri%20Tigers%20Vs%20Arkansas-Pine%20Bluff%20Golden%20Lions.jpg"
-        },
-        {
-            "id": 18,
-            "title": "Missouri Tigers Vs Arkansas-Pine Bluff Golden Lions",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Missouri_Tigers_Vs_Arkansas-Pine_Bluff_Golden_Lions.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Missouri%20Tigers%20Vs%20Arkansas-Pine%20Bluff%20Golden%20Lions.jpg"
-        },
-        {
-            "id": 19,
-            "title": "Georgia Tech Yellow Jackets Vs Colorado Buffaloes",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Georgia_Tech_Yellow_Jackets_Vs_Colorado_Buffaloes.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Georgia%20Tech%20Yellow%20Jackets%20Vs%20Colorado%20Buffaloes.jpg"
-        },
-        {
-            "id": 20,
-            "title": "Georgia Tech Yellow Jackets Vs Colorado Buffaloes",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Georgia_Tech_Yellow_Jackets_Vs_Colorado_Buffaloes.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Georgia%20Tech%20Yellow%20Jackets%20Vs%20Colorado%20Buffaloes.jpg"
-        },
-        {
-            "id": 21,
-            "title": "Minnesota Golden Gophers Vs Eastern Illinois Panthers",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Minnesota_Golden_Gophers_Vs_Eastern_Illinois_Panthers.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Minnesota%20Golden%20Gophers%20Vs%20Eastern%20Illinois%20Panthers.jpg"
-        },
-        {
-            "id": 22,
-            "title": "Minnesota Golden Gophers Vs Eastern Illinois Panthers",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Minnesota_Golden_Gophers_Vs_Eastern_Illinois_Panthers.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Minnesota%20Golden%20Gophers%20Vs%20Eastern%20Illinois%20Panthers.jpg"
-        },
-        {
-            "id": 23,
-            "title": "Minnesota Golden Gophers Vs Eastern Illinois Panthers",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Minnesota_Golden_Gophers_Vs_Eastern_Illinois_Panthers.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Minnesota%20Golden%20Gophers%20Vs%20Eastern%20Illinois%20Panthers.jpg"
-        },
-        {
-            "id": 24,
-            "title": "Kansas City Royals Vs Miami Marlins",
-            "category": "baseball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Kansas_City_Royals_Vs_Miami_Marlins.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kansas%20City%20Royals%20Vs%20Miami%20Marlins.jpg"
-        },
-        {
-            "id": 25,
-            "title": "Kansas City Royals Vs Miami Marlins",
-            "category": "baseball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Kansas_City_Royals_Vs_Miami_Marlins.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kansas%20City%20Royals%20Vs%20Miami%20Marlins.jpg"
-        },
-        {
-            "id": 26,
-            "title": "Kansas City Royals Vs Miami Marlins",
-            "category": "baseball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Kansas_City_Royals_Vs_Miami_Marlins.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kansas%20City%20Royals%20Vs%20Miami%20Marlins.jpg"
-        },
-        {
-            "id": 27,
-            "title": "Kansas City Royals Vs Miami Marlins",
-            "category": "baseball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Kansas_City_Royals_Vs_Miami_Marlins.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kansas%20City%20Royals%20Vs%20Miami%20Marlins.jpg"
-        },
-        {
             "id": 28,
-            "title": "Chicago Cubs Vs Milwaukee Brewers",
+            "title": "Texas Rangers Vs Tampa Bay Rays",
             "category": "baseball",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Chicago_Cubs_Vs_Milwaukee_Brewers.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Chicago%20Cubs%20Vs%20Milwaukee%20Brewers.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Texas_Rangers_Vs_Tampa_Bay_Rays.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Texas%20Rangers%20Vs%20Tampa%20Bay%20Rays.jpg"
         },
         {
             "id": 29,
-            "title": "Chicago Cubs Vs Milwaukee Brewers",
+            "title": "Texas Rangers Vs Tampa Bay Rays",
             "category": "baseball",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Chicago_Cubs_Vs_Milwaukee_Brewers.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Chicago%20Cubs%20Vs%20Milwaukee%20Brewers.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Texas_Rangers_Vs_Tampa_Bay_Rays.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Texas%20Rangers%20Vs%20Tampa%20Bay%20Rays.jpg"
         },
         {
             "id": 30,
-            "title": "Chicago Cubs Vs Milwaukee Brewers",
-            "category": "baseball",
+            "title": "SmackDown Vs SmackDown",
+            "category": "boxing",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Chicago_Cubs_Vs_Milwaukee_Brewers.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Chicago%20Cubs%20Vs%20Milwaukee%20Brewers.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 31,
-            "title": "Chicago Cubs Vs Milwaukee Brewers",
-            "category": "baseball",
+            "title": "SmackDown Vs SmackDown",
+            "category": "boxing",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Chicago_Cubs_Vs_Milwaukee_Brewers.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Chicago%20Cubs%20Vs%20Milwaukee%20Brewers.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 32,
-            "title": "Chicago Cubs Vs Milwaukee Brewers",
-            "category": "baseball",
+            "title": "SmackDown Vs SmackDown",
+            "category": "boxing",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Chicago_Cubs_Vs_Milwaukee_Brewers.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Chicago%20Cubs%20Vs%20Milwaukee%20Brewers.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 33,
-            "title": "Chicago Cubs Vs Milwaukee Brewers",
-            "category": "baseball",
+            "title": "SmackDown Vs SmackDown",
+            "category": "boxing",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Chicago_Cubs_Vs_Milwaukee_Brewers.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Chicago%20Cubs%20Vs%20Milwaukee%20Brewers.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 34,
-            "title": "Baltimore Orioles Vs Boston Red Sox",
-            "category": "baseball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Baltimore_Orioles_Vs_Boston_Red_Sox.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Baltimore%20Orioles%20Vs%20Boston%20Red%20Sox.jpg"
+            "title": "SmackDown Vs SmackDown",
+            "category": "boxing",
+            "stream_url": "https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 35,
-            "title": "Baltimore Orioles Vs Boston Red Sox",
-            "category": "baseball",
+            "title": "SmackDown Vs SmackDown",
+            "category": "boxing",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Baltimore_Orioles_Vs_Boston_Red_Sox.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Baltimore%20Orioles%20Vs%20Boston%20Red%20Sox.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 36,
-            "title": "Baltimore Orioles Vs Boston Red Sox",
-            "category": "baseball",
+            "title": "SmackDown Vs SmackDown",
+            "category": "boxing",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Baltimore_Orioles_Vs_Boston_Red_Sox.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Baltimore%20Orioles%20Vs%20Boston%20Red%20Sox.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 37,
-            "title": "Baltimore Orioles Vs Boston Red Sox",
-            "category": "baseball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Baltimore_Orioles_Vs_Boston_Red_Sox.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Baltimore%20Orioles%20Vs%20Boston%20Red%20Sox.jpg"
+            "title": "SmackDown Vs SmackDown",
+            "category": "boxing",
+            "stream_url": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 38,
-            "title": "Baltimore Orioles Vs Boston Red Sox",
-            "category": "baseball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Baltimore_Orioles_Vs_Boston_Red_Sox.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Baltimore%20Orioles%20Vs%20Boston%20Red%20Sox.jpg"
+            "title": "SmackDown Vs SmackDown",
+            "category": "boxing",
+            "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 39,
+            "title": "SmackDown Vs SmackDown",
+            "category": "boxing",
+            "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
+        },
+        {
+            "id": 40,
+            "title": "SmackDown Vs SmackDown",
+            "category": "boxing",
+            "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
+        },
+        {
+            "id": 41,
+            "title": "SmackDown Vs SmackDown",
+            "category": "boxing",
+            "stream_url": "https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
+        },
+        {
+            "id": 42,
+            "title": "SmackDown Vs SmackDown",
+            "category": "boxing",
+            "stream_url": "https://acumen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
+        },
+        {
+            "id": 43,
+            "title": "SmackDown Vs SmackDown",
+            "category": "boxing",
+            "stream_url": "https://serendipity.loreofeldenring.site/dailymotion/live/playlist/5.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
+        },
+        {
+            "id": 44,
+            "title": "SmackDown Vs SmackDown",
+            "category": "boxing",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
+        },
+        {
+            "id": 45,
+            "title": "Oklahoma Sooners Vs UTEP Miners",
+            "category": "american football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Oklahoma_Sooners_Vs_UTEP_Miners.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Oklahoma%20Sooners%20Vs%20UTEP%20Miners.jpg"
+        },
+        {
+            "id": 46,
+            "title": "Oklahoma Sooners Vs UTEP Miners",
+            "category": "american football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Oklahoma_Sooners_Vs_UTEP_Miners.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Oklahoma%20Sooners%20Vs%20UTEP%20Miners.jpg"
+        },
+        {
+            "id": 47,
+            "title": "Michigan State Spartans Vs Toledo Rockets",
+            "category": "american football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Michigan_State_Spartans_Vs_Toledo_Rockets.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Michigan%20State%20Spartans%20Vs%20Toledo%20Rockets.jpg"
+        },
+        {
+            "id": 48,
+            "title": "Michigan State Spartans Vs Toledo Rockets",
+            "category": "american football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Michigan_State_Spartans_Vs_Toledo_Rockets.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Michigan%20State%20Spartans%20Vs%20Toledo%20Rockets.jpg"
+        },
+        {
+            "id": 49,
+            "title": "Kansas Jayhawks Vs Liu Sharks",
+            "category": "american football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Kansas_Jayhawks_Vs_Liu_Sharks.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kansas%20Jayhawks%20Vs%20Liu%20Sharks.jpg"
+        },
+        {
+            "id": 50,
+            "title": "Chicago White Sox Vs Minnesota Twins",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Chicago_White_Sox_Vs_Minnesota_Twins.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Chicago%20White%20Sox%20Vs%20Minnesota%20Twins.jpg"
+        },
+        {
+            "id": 51,
+            "title": "Chicago White Sox Vs Minnesota Twins",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Chicago_White_Sox_Vs_Minnesota_Twins.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Chicago%20White%20Sox%20Vs%20Minnesota%20Twins.jpg"
+        },
+        {
+            "id": 52,
+            "title": "Chicago White Sox Vs Minnesota Twins",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Chicago_White_Sox_Vs_Minnesota_Twins.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Chicago%20White%20Sox%20Vs%20Minnesota%20Twins.jpg"
+        },
+        {
+            "id": 53,
+            "title": "Montreal Alouettes Vs BC Lions",
+            "category": "american football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Montreal_Alouettes_Vs_BC_Lions.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Montreal%20Alouettes%20Vs%20BC%20Lions.jpg"
+        },
+        {
+            "id": 54,
+            "title": "Montreal Alouettes Vs BC Lions",
+            "category": "american football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Montreal_Alouettes_Vs_BC_Lions.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Montreal%20Alouettes%20Vs%20BC%20Lions.jpg"
+        },
+        {
+            "id": 55,
+            "title": "Cleveland Guardians Vs Detroit Tigers",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Cleveland_Guardians_Vs_Detroit_Tigers.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Cleveland%20Guardians%20Vs%20Detroit%20Tigers.jpg"
+        },
+        {
+            "id": 56,
+            "title": "Cleveland Guardians Vs Detroit Tigers",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Cleveland_Guardians_Vs_Detroit_Tigers.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Cleveland%20Guardians%20Vs%20Detroit%20Tigers.jpg"
+        },
+        {
+            "id": 57,
+            "title": "Cleveland Guardians Vs Detroit Tigers",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Cleveland_Guardians_Vs_Detroit_Tigers.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Cleveland%20Guardians%20Vs%20Detroit%20Tigers.jpg"
+        },
+        {
+            "id": 58,
+            "title": "New York Mets Vs San Francisco Giants",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/New_York_Mets_Vs_San_Francisco_Giants.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Mets%20Vs%20San%20Francisco%20Giants.jpg"
+        },
+        {
+            "id": 59,
+            "title": "New York Mets Vs San Francisco Giants",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/New_York_Mets_Vs_San_Francisco_Giants.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Mets%20Vs%20San%20Francisco%20Giants.jpg"
+        },
+        {
+            "id": 60,
+            "title": "Miami Marlins Vs Chicago Cubs",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Miami_Marlins_Vs_Chicago_Cubs.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Miami%20Marlins%20Vs%20Chicago%20Cubs.jpg"
+        },
+        {
+            "id": 61,
+            "title": "Miami Marlins Vs Chicago Cubs",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Miami_Marlins_Vs_Chicago_Cubs.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Miami%20Marlins%20Vs%20Chicago%20Cubs.jpg"
+        },
+        {
+            "id": 62,
             "title": "Baltimore Orioles Vs Boston Red Sox",
             "category": "baseball",
             "stream_url": "",
@@ -313,244 +497,60 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Baltimore%20Orioles%20Vs%20Boston%20Red%20Sox.jpg"
         },
         {
-            "id": 40,
-            "title": "UCF Knights Vs Bethune Cookman Wildcats",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/UCF_Knights_Vs_Bethune_Cookman_Wildcats.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/UCF%20Knights%20Vs%20Bethune%20Cookman%20Wildcats.jpg"
-        },
-        {
-            "id": 41,
-            "title": "UCF Knights Vs Bethune Cookman Wildcats",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/UCF_Knights_Vs_Bethune_Cookman_Wildcats.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/UCF%20Knights%20Vs%20Bethune%20Cookman%20Wildcats.jpg"
-        },
-        {
-            "id": 42,
-            "title": "UCF Knights Vs Bethune Cookman Wildcats",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/UCF_Knights_Vs_Bethune_Cookman_Wildcats.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/UCF%20Knights%20Vs%20Bethune%20Cookman%20Wildcats.jpg"
-        },
-        {
-            "id": 43,
-            "title": "Wake Forest Demon Deacons Vs Akron Zips",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Wake_Forest_Demon_Deacons_Vs_Akron_Zips.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Wake%20Forest%20Demon%20Deacons%20Vs%20Akron%20Zips.jpg"
-        },
-        {
-            "id": 44,
-            "title": "Wake Forest Demon Deacons Vs Akron Zips",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Wake_Forest_Demon_Deacons_Vs_Akron_Zips.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Wake%20Forest%20Demon%20Deacons%20Vs%20Akron%20Zips.jpg"
-        },
-        {
-            "id": 45,
-            "title": "Wake Forest Demon Deacons Vs Akron Zips",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Wake_Forest_Demon_Deacons_Vs_Akron_Zips.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Wake%20Forest%20Demon%20Deacons%20Vs%20Akron%20Zips.jpg"
-        },
-        {
-            "id": 46,
-            "title": "Delaware Blue Hens Vs Merrimack Warriors",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Delaware_Blue_Hens_Vs_Merrimack_Warriors.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Delaware%20Blue%20Hens%20Vs%20Merrimack%20Warriors.jpg"
-        },
-        {
-            "id": 47,
-            "title": "Delaware Blue Hens Vs Merrimack Warriors",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Delaware_Blue_Hens_Vs_Merrimack_Warriors.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Delaware%20Blue%20Hens%20Vs%20Merrimack%20Warriors.jpg"
-        },
-        {
-            "id": 48,
-            "title": "Delaware Blue Hens Vs Merrimack Warriors",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Delaware_Blue_Hens_Vs_Merrimack_Warriors.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Delaware%20Blue%20Hens%20Vs%20Merrimack%20Warriors.jpg"
-        },
-        {
-            "id": 49,
-            "title": "Kennesaw State Owls Vs West Georgia Wolves",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Kennesaw_State_Owls_Vs_West_Georgia_Wolves.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kennesaw%20State%20Owls%20Vs%20West%20Georgia%20Wolves.jpg"
-        },
-        {
-            "id": 50,
-            "title": "Kennesaw State Owls Vs West Georgia Wolves",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Kennesaw_State_Owls_Vs_West_Georgia_Wolves.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kennesaw%20State%20Owls%20Vs%20West%20Georgia%20Wolves.jpg"
-        },
-        {
-            "id": 51,
-            "title": "Kennesaw State Owls Vs West Georgia Wolves",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Kennesaw_State_Owls_Vs_West_Georgia_Wolves.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kennesaw%20State%20Owls%20Vs%20West%20Georgia%20Wolves.jpg"
-        },
-        {
-            "id": 52,
-            "title": "Buffalo Bulls Vs Albany Great Danes",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Buffalo_Bulls_Vs_Albany_Great_Danes.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Buffalo%20Bulls%20Vs%20Albany%20Great%20Danes.jpg"
-        },
-        {
-            "id": 53,
-            "title": "Buffalo Bulls Vs Albany Great Danes",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Buffalo_Bulls_Vs_Albany_Great_Danes.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Buffalo%20Bulls%20Vs%20Albany%20Great%20Danes.jpg"
-        },
-        {
-            "id": 54,
-            "title": "Buffalo Bulls Vs Albany Great Danes",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Buffalo_Bulls_Vs_Albany_Great_Danes.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Buffalo%20Bulls%20Vs%20Albany%20Great%20Danes.jpg"
-        },
-        {
-            "id": 55,
-            "title": "Samford Bulldogs Vs Southern Illinois Salukis",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Samford_Bulldogs_Vs_Southern_Illinois_Salukis.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Samford%20Bulldogs%20Vs%20Southern%20Illinois%20Salukis.jpg"
-        },
-        {
-            "id": 56,
-            "title": "St Kitts and Nevis Patriots Vs Saint Lucia Kings",
-            "category": "cricket",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/St_Kitts_and_Nevis_Patriots_Vs_Saint_Lucia_Kings.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/St%20Kitts%20and%20Nevis%20Patriots%20Vs%20Saint%20Lucia%20Kings.jpg"
-        },
-        {
-            "id": 57,
-            "title": "St Kitts and Nevis Patriots Vs Saint Lucia Kings",
-            "category": "cricket",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/St_Kitts_and_Nevis_Patriots_Vs_Saint_Lucia_Kings.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/St%20Kitts%20and%20Nevis%20Patriots%20Vs%20Saint%20Lucia%20Kings.jpg"
-        },
-        {
-            "id": 58,
-            "title": "St Kitts and Nevis Patriots Vs Saint Lucia Kings",
-            "category": "cricket",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/St_Kitts_and_Nevis_Patriots_Vs_Saint_Lucia_Kings.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/St%20Kitts%20and%20Nevis%20Patriots%20Vs%20Saint%20Lucia%20Kings.jpg"
-        },
-        {
-            "id": 59,
-            "title": "St Kitts and Nevis Patriots Vs Saint Lucia Kings",
-            "category": "cricket",
-            "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/St_Kitts_and_Nevis_Patriots_Vs_Saint_Lucia_Kings.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/St%20Kitts%20and%20Nevis%20Patriots%20Vs%20Saint%20Lucia%20Kings.jpg"
-        },
-        {
-            "id": 60,
-            "title": "St Kitts and Nevis Patriots Vs Saint Lucia Kings",
-            "category": "cricket",
-            "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/St_Kitts_and_Nevis_Patriots_Vs_Saint_Lucia_Kings.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/St%20Kitts%20and%20Nevis%20Patriots%20Vs%20Saint%20Lucia%20Kings.jpg"
-        },
-        {
-            "id": 61,
-            "title": "St Kitts and Nevis Patriots Vs Saint Lucia Kings",
-            "category": "cricket",
-            "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/St_Kitts_and_Nevis_Patriots_Vs_Saint_Lucia_Kings.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/St%20Kitts%20and%20Nevis%20Patriots%20Vs%20Saint%20Lucia%20Kings.jpg"
-        },
-        {
-            "id": 62,
-            "title": "Lenar Perez Vs Thabiso Mchunu",
-            "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Lenar_Perez_Vs_Thabiso_Mchunu.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Lenar%20Perez%20Vs%20Thabiso%20Mchunu.jpg"
-        },
-        {
             "id": 63,
-            "title": "Lenar Perez Vs Thabiso Mchunu",
-            "category": "boxing",
+            "title": "Baltimore Orioles Vs Boston Red Sox",
+            "category": "baseball",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Lenar_Perez_Vs_Thabiso_Mchunu.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Lenar%20Perez%20Vs%20Thabiso%20Mchunu.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Baltimore_Orioles_Vs_Boston_Red_Sox.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Baltimore%20Orioles%20Vs%20Boston%20Red%20Sox.jpg"
         },
         {
             "id": 64,
-            "title": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
-            "category": "other",
+            "title": "Guyana Amazon Warriors Vs Jamaica Kingsmen",
+            "category": "cricket",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Guyana_Amazon_Warriors_Vs_Jamaica_Kingsmen.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Guyana%20Amazon%20Warriors%20Vs%20Jamaica%20Kingsmen.jpg"
         },
         {
             "id": 65,
-            "title": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
-            "category": "other",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "title": "Guyana Amazon Warriors Vs Jamaica Kingsmen",
+            "category": "cricket",
+            "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport5nz8cas5df.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Guyana_Amazon_Warriors_Vs_Jamaica_Kingsmen.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Guyana%20Amazon%20Warriors%20Vs%20Jamaica%20Kingsmen.jpg"
         },
         {
             "id": 66,
-            "title": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
-            "category": "other",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "title": "Guyana Amazon Warriors Vs Jamaica Kingsmen",
+            "category": "cricket",
+            "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Guyana_Amazon_Warriors_Vs_Jamaica_Kingsmen.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Guyana%20Amazon%20Warriors%20Vs%20Jamaica%20Kingsmen.jpg"
         },
         {
             "id": 67,
-            "title": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
-            "category": "other",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "title": "Guyana Amazon Warriors Vs Jamaica Kingsmen",
+            "category": "cricket",
+            "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Guyana_Amazon_Warriors_Vs_Jamaica_Kingsmen.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Guyana%20Amazon%20Warriors%20Vs%20Jamaica%20Kingsmen.jpg"
         },
         {
             "id": 68,
-            "title": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
-            "category": "other",
+            "title": "Purdue Boilermakers Vs Indiana State Sycamores",
+            "category": "american football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Purdue_Boilermakers_Vs_Indiana_State_Sycamores.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Purdue%20Boilermakers%20Vs%20Indiana%20State%20Sycamores.jpg"
         },
         {
             "id": 69,
-            "title": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
-            "category": "other",
+            "title": "Georgia State Panthers Vs North Carolina A&T Aggies",
+            "category": "american football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Georgia_State_Panthers_Vs_North_Carolina_A&T_Aggies.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Georgia%20State%20Panthers%20Vs%20North%20Carolina%20A%26T%20Aggies.jpg"
         },
         {
             "id": 70,
@@ -558,7 +558,7 @@
             "category": "other",
             "stream_url": "",
             "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
         },
         {
             "id": 71,
@@ -566,7 +566,7 @@
             "category": "other",
             "stream_url": "",
             "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
         },
         {
             "id": 72,
@@ -574,23 +574,23 @@
             "category": "other",
             "stream_url": "",
             "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
         },
         {
             "id": 73,
             "title": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
             "category": "other",
-            "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportstennis.m3u8",
+            "stream_url": "",
             "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
         },
         {
             "id": 74,
             "title": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
             "category": "other",
-            "stream_url": "https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8",
+            "stream_url": "",
             "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
         },
         {
             "id": 75,
@@ -598,7 +598,7 @@
             "category": "other",
             "stream_url": "",
             "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
         },
         {
             "id": 76,
@@ -606,7 +606,7 @@
             "category": "other",
             "stream_url": "",
             "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
         },
         {
             "id": 77,
@@ -614,7 +614,7 @@
             "category": "other",
             "stream_url": "",
             "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
         },
         {
             "id": 78,
@@ -622,23 +622,23 @@
             "category": "other",
             "stream_url": "",
             "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
         },
         {
             "id": 79,
             "title": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
             "category": "other",
-            "stream_url": "",
+            "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportstennis.m3u8",
             "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
         },
         {
             "id": 80,
             "title": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
             "category": "other",
-            "stream_url": "",
+            "stream_url": "https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8",
             "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
         },
         {
             "id": 81,
@@ -646,7 +646,7 @@
             "category": "other",
             "stream_url": "",
             "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
         },
         {
             "id": 82,
@@ -654,7 +654,7 @@
             "category": "other",
             "stream_url": "",
             "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
         },
         {
             "id": 83,
@@ -662,7 +662,7 @@
             "category": "other",
             "stream_url": "",
             "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
         },
         {
             "id": 84,
@@ -670,7 +670,7 @@
             "category": "other",
             "stream_url": "",
             "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
         },
         {
             "id": 85,
@@ -678,31 +678,151 @@
             "category": "other",
             "stream_url": "",
             "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg"
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
         },
         {
             "id": 86,
-            "title": "Los Angeles Dodgers Vs St. Louis Cardinals",
-            "category": "baseball",
+            "title": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
+            "category": "other",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Los_Angeles_Dodgers_Vs_St._Louis_Cardinals.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Los%20Angeles%20Dodgers%20Vs%20St.%20Louis%20Cardinals.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
         },
         {
             "id": 87,
-            "title": "Los Angeles Dodgers Vs St. Louis Cardinals",
-            "category": "baseball",
+            "title": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
+            "category": "other",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Los_Angeles_Dodgers_Vs_St._Louis_Cardinals.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Los%20Angeles%20Dodgers%20Vs%20St.%20Louis%20Cardinals.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
         },
         {
             "id": 88,
-            "title": "Los Angeles Dodgers Vs St. Louis Cardinals",
+            "title": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
+            "category": "other",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
+        },
+        {
+            "id": 89,
+            "title": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
+            "category": "other",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
+        },
+        {
+            "id": 90,
+            "title": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
+            "category": "other",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
+        },
+        {
+            "id": 91,
+            "title": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
+            "category": "other",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/TENNIS_EVENTO_Vs_TENNIS_EVENTO.jpg",
+            "logo": "https://i.ibb.co/jPv7P49q/Sktenn.png"
+        },
+        {
+            "id": 92,
+            "title": "Bay of Plenty Vs Manawatu",
+            "category": "rugby",
+            "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Bay_of_Plenty_Vs_Manawatu.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Bay%20of%20Plenty%20Vs%20Manawatu.jpg"
+        },
+        {
+            "id": 93,
+            "title": "Bay of Plenty Vs Manawatu",
+            "category": "rugby",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Bay_of_Plenty_Vs_Manawatu.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Bay%20of%20Plenty%20Vs%20Manawatu.jpg"
+        },
+        {
+            "id": 94,
+            "title": "Seattle Mariners Vs Athletics",
             "category": "baseball",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Los_Angeles_Dodgers_Vs_St._Louis_Cardinals.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Los%20Angeles%20Dodgers%20Vs%20St.%20Louis%20Cardinals.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Seattle_Mariners_Vs_Athletics.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Seattle%20Mariners%20Vs%20Athletics.jpg"
+        },
+        {
+            "id": 95,
+            "title": "Seattle Mariners Vs Athletics",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Seattle_Mariners_Vs_Athletics.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Seattle%20Mariners%20Vs%20Athletics.jpg"
+        },
+        {
+            "id": 96,
+            "title": "Los Angeles Dodgers Vs Washington Nationals",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Los_Angeles_Dodgers_Vs_Washington_Nationals.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Los%20Angeles%20Dodgers%20Vs%20Washington%20Nationals.jpg"
+        },
+        {
+            "id": 97,
+            "title": "Los Angeles Dodgers Vs Washington Nationals",
+            "category": "baseball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Los_Angeles_Dodgers_Vs_Washington_Nationals.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Los%20Angeles%20Dodgers%20Vs%20Washington%20Nationals.jpg"
+        },
+        {
+            "id": 98,
+            "title": "New Zealand Warriors Vs Cronulla Sharks",
+            "category": "rugby",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/New_Zealand_Warriors_Vs_Cronulla_Sharks.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Zealand%20Warriors%20Vs%20Cronulla%20Sharks.jpg"
+        },
+        {
+            "id": 99,
+            "title": "New Zealand Warriors Vs Cronulla Sharks",
+            "category": "rugby",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/New_Zealand_Warriors_Vs_Cronulla_Sharks.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Zealand%20Warriors%20Vs%20Cronulla%20Sharks.jpg"
+        },
+        {
+            "id": 100,
+            "title": "Western Bulldogs Vs Sydney Swans",
+            "category": "aussie rules",
+            "stream_url": "https://file.genoads.com/ch1.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Western_Bulldogs_Vs_Sydney_Swans.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Western%20Bulldogs%20Vs%20Sydney%20Swans.jpg"
+        },
+        {
+            "id": 101,
+            "title": "Newtown Jets Vs New Zealand Warriors",
+            "category": "rugby",
+            "stream_url": "https://file.genoads.com/ch1.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Newtown_Jets_Vs_New_Zealand_Warriors.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Newtown%20Jets%20Vs%20New%20Zealand%20Warriors.jpg"
+        },
+        {
+            "id": 102,
+            "title": "FC Juárez Vs CF Pachuca",
+            "category": "football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/FC_Juárez_Vs_CF_Pachuca.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20Ju%C3%A1rez%20Vs%20CF%20Pachuca.jpg"
+        },
+        {
+            "id": 103,
+            "title": "FC Juárez Vs CF Pachuca",
+            "category": "football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/FC_Juárez_Vs_CF_Pachuca.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20Ju%C3%A1rez%20Vs%20CF%20Pachuca.jpg"
         }
     ]
 }
