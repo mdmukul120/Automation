@@ -138,118 +138,230 @@
         },
         {
             "id": 18,
-            "title": "Los Angeles Lakers Vs Sacramento Kings - HD QUALITY NBA",
-            "category": "basketball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Los_Angeles_Lakers_Vs_Sacramento_Kings_-_HD_QUALITY_NBA.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Los%20Angeles%20Lakers%20Vs%20Sacramento%20Kings.jpg"
+            "title": "GOLF EVENTO Vs GOLF EVENTO - Golf Channel - HD",
+            "category": "other",
+            "stream_url": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/GOLF_EVENTO_Vs_GOLF_EVENTO_-_Golf_Channel_-_HD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/GOLF%20EVENTO%20Vs%20GOLF%20EVENTO.jpg"
         },
         {
             "id": 19,
-            "title": "Los Angeles Lakers Vs Sacramento Kings - HD QUALITY4",
-            "category": "basketball",
-            "stream_url": "https://www.rtmpcdn.com/live/ec9a4815-c6eb-4324-9092-99cb6322964e.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Los_Angeles_Lakers_Vs_Sacramento_Kings_-_HD_QUALITY4.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Los%20Angeles%20Lakers%20Vs%20Sacramento%20Kings.jpg"
+            "title": "Otago Vs Hawke's Bay - STREAM TV + HD",
+            "category": "rugby",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Otago_Vs_Hawke's_Bay_-_STREAM_TV_+_HD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Otago%20Vs%20Hawke%27s%20Bay.jpg"
         },
         {
             "id": 20,
-            "title": "Los Angeles Lakers Vs Sacramento Kings - STREAM TV + HD",
-            "category": "basketball",
+            "title": "Tigres UANL Vs CD Toluca - FOX DEPORTES FHD",
+            "category": "football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Los_Angeles_Lakers_Vs_Sacramento_Kings_-_STREAM_TV_+_HD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Los%20Angeles%20Lakers%20Vs%20Sacramento%20Kings.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Tigres_UANL_Vs_CD_Toluca_-_FOX_DEPORTES_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tigres%20UANL%20Vs%20CD%20Toluca.jpg"
         },
         {
             "id": 21,
-            "title": "Los Angeles Lakers Vs Sacramento Kings - HD QUALITY",
-            "category": "basketball",
+            "title": "Tigres UANL Vs CD Toluca - FOX2 SPORTS FHD",
+            "category": "football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Los_Angeles_Lakers_Vs_Sacramento_Kings_-_HD_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Los%20Angeles%20Lakers%20Vs%20Sacramento%20Kings.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Tigres_UANL_Vs_CD_Toluca_-_FOX2_SPORTS_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tigres%20UANL%20Vs%20CD%20Toluca.jpg"
         },
         {
             "id": 22,
-            "title": "Vegas Golden Knights Vs Toronto Maple Leafs - TSN4 SPORTS FHD",
-            "category": "hockey",
+            "title": "Brigham Young Cougars Vs Iowa State Cyclones - HD QUALITY",
+            "category": "american football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Vegas_Golden_Knights_Vs_Toronto_Maple_Leafs_-_TSN4_SPORTS_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Vegas%20Golden%20Knights%20Vs%20Toronto%20Maple%20Leafs.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Brigham_Young_Cougars_Vs_Iowa_State_Cyclones_-_HD_QUALITY.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Brigham%20Young%20Cougars%20Vs%20Iowa%20State%20Cyclones.jpg"
         },
         {
             "id": 23,
-            "title": "Vegas Golden Knights Vs Toronto Maple Leafs - PREMIER1 SPORTS FHD",
-            "category": "hockey",
+            "title": "Brigham Young Cougars Vs Iowa State Cyclones - SERVER + TV",
+            "category": "american football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Vegas_Golden_Knights_Vs_Toronto_Maple_Leafs_-_PREMIER1_SPORTS_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Vegas%20Golden%20Knights%20Vs%20Toronto%20Maple%20Leafs.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Brigham_Young_Cougars_Vs_Iowa_State_Cyclones_-_SERVER_+_TV.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Brigham%20Young%20Cougars%20Vs%20Iowa%20State%20Cyclones.jpg"
         },
         {
             "id": 24,
-            "title": "Vegas Golden Knights Vs Toronto Maple Leafs - HD QUALITY NHL",
-            "category": "hockey",
+            "title": "St Kilda Saints Vs Collingwood Magpies - TNT3UK SPORTS FHD",
+            "category": "aussie rules",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Vegas_Golden_Knights_Vs_Toronto_Maple_Leafs_-_HD_QUALITY_NHL.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Vegas%20Golden%20Knights%20Vs%20Toronto%20Maple%20Leafs.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/St_Kilda_Saints_Vs_Collingwood_Magpies_-_TNT3UK_SPORTS_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/St%20Kilda%20Saints%20Vs%20Collingwood%20Magpies.jpg"
         },
         {
             "id": 25,
-            "title": "Vegas Golden Knights Vs Toronto Maple Leafs - SPORTSCAST + FHD",
-            "category": "hockey",
-            "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f63d4798-1e94-422b-9b8f-2123d2d1a3ae/master.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Vegas_Golden_Knights_Vs_Toronto_Maple_Leafs_-_SPORTSCAST_+_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Vegas%20Golden%20Knights%20Vs%20Toronto%20Maple%20Leafs.jpg"
+            "title": "CYCLING EVENTO Vs CYCLING EVENTO - TNT3UK SPORTS FHD",
+            "category": "other",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/CYCLING_EVENTO_Vs_CYCLING_EVENTO_-_TNT3UK_SPORTS_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CYCLING%20EVENTO%20Vs%20CYCLING%20EVENTO.jpg"
         },
         {
             "id": 26,
-            "title": "Vegas Golden Knights Vs Toronto Maple Leafs - STREAM TV + HD",
-            "category": "hockey",
+            "title": "CYCLING EVENTO Vs CYCLING EVENTO - TNT4UK SPORTS FHD",
+            "category": "other",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Vegas_Golden_Knights_Vs_Toronto_Maple_Leafs_-_STREAM_TV_+_HD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Vegas%20Golden%20Knights%20Vs%20Toronto%20Maple%20Leafs.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/CYCLING_EVENTO_Vs_CYCLING_EVENTO_-_TNT4UK_SPORTS_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CYCLING%20EVENTO%20Vs%20CYCLING%20EVENTO.jpg"
         },
         {
             "id": 27,
-            "title": "Vegas Golden Knights Vs Toronto Maple Leafs - HD QUALITY",
-            "category": "hockey",
+            "title": "CYCLING EVENTO Vs CYCLING EVENTO - TNT1UK SPORTS FHD",
+            "category": "other",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Vegas_Golden_Knights_Vs_Toronto_Maple_Leafs_-_HD_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Vegas%20Golden%20Knights%20Vs%20Toronto%20Maple%20Leafs.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/CYCLING_EVENTO_Vs_CYCLING_EVENTO_-_TNT1UK_SPORTS_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CYCLING%20EVENTO%20Vs%20CYCLING%20EVENTO.jpg"
         },
         {
             "id": 28,
-            "title": "Calgary Flames Vs Colorado Avalanche - HD QUALITY",
-            "category": "hockey",
+            "title": "BC Lions Vs Ottawa Redblacks - TSN1 SPORTS FHD",
+            "category": "american football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Calgary_Flames_Vs_Colorado_Avalanche_-_HD_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Calgary%20Flames%20Vs%20Colorado%20Avalanche.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/BC_Lions_Vs_Ottawa_Redblacks_-_TSN1_SPORTS_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/BC%20Lions%20Vs%20Ottawa%20Redblacks.jpg"
         },
         {
             "id": 29,
-            "title": "Calgary Flames Vs Colorado Avalanche - SPORTSCAST + FHD",
-            "category": "hockey",
-            "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1453a831-5aae-4ae6-89cd-05a6ac8766b4/master.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Calgary_Flames_Vs_Colorado_Avalanche_-_SPORTSCAST_+_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Calgary%20Flames%20Vs%20Colorado%20Avalanche.jpg"
+            "title": "BC Lions Vs Ottawa Redblacks - TSN5 SPORTS FHD",
+            "category": "american football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/BC_Lions_Vs_Ottawa_Redblacks_-_TSN5_SPORTS_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/BC%20Lions%20Vs%20Ottawa%20Redblacks.jpg"
         },
         {
             "id": 30,
-            "title": "Calgary Flames Vs Colorado Avalanche - STREAM TV + HD..",
-            "category": "hockey",
+            "title": "BC Lions Vs Ottawa Redblacks - HD QUALITY",
+            "category": "american football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Calgary_Flames_Vs_Colorado_Avalanche_-_STREAM_TV_+_HD...jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Calgary%20Flames%20Vs%20Colorado%20Avalanche.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/BC_Lions_Vs_Ottawa_Redblacks_-_HD_QUALITY.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/BC%20Lions%20Vs%20Ottawa%20Redblacks.jpg"
         },
         {
             "id": 31,
-            "title": "Calgary Flames Vs Colorado Avalanche - HD QUALITY",
-            "category": "hockey",
+            "title": "North Harbour Vs Taranaki - LOW QUALITY (USE VPN)",
+            "category": "rugby",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Calgary_Flames_Vs_Colorado_Avalanche_-_HD_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Calgary%20Flames%20Vs%20Colorado%20Avalanche.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/North_Harbour_Vs_Taranaki_-_LOW_QUALITY_(USE_VPN).jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/North%20Harbour%20Vs%20Taranaki.jpg"
         },
         {
             "id": 32,
+            "title": "Las Vegas Aces Vs Golden State Valkyries - TSN4 SPORTS FHD",
+            "category": "basketball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Las_Vegas_Aces_Vs_Golden_State_Valkyries_-_TSN4_SPORTS_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Las%20Vegas%20Aces%20Vs%20Golden%20State%20Valkyries.jpg"
+        },
+        {
+            "id": 33,
+            "title": "Las Vegas Aces Vs Golden State Valkyries - HD QUALITY",
+            "category": "basketball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Las_Vegas_Aces_Vs_Golden_State_Valkyries_-_HD_QUALITY.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Las%20Vegas%20Aces%20Vs%20Golden%20State%20Valkyries.jpg"
+        },
+        {
+            "id": 34,
+            "title": "Las Vegas Aces Vs Golden State Valkyries - HD QUALITY 4",
+            "category": "basketball",
+            "stream_url": "https://www.rtmpcdn.com/live/36f63d82-8e68-4088-b8b6-fe035607b717.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Las_Vegas_Aces_Vs_Golden_State_Valkyries_-_HD_QUALITY_4.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Las%20Vegas%20Aces%20Vs%20Golden%20State%20Valkyries.jpg"
+        },
+        {
+            "id": 35,
+            "title": "Las Vegas Aces Vs Golden State Valkyries - STREAM TV + HD",
+            "category": "basketball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Las_Vegas_Aces_Vs_Golden_State_Valkyries_-_STREAM_TV_+_HD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Las%20Vegas%20Aces%20Vs%20Golden%20State%20Valkyries.jpg"
+        },
+        {
+            "id": 36,
+            "title": "San Jose State Spartans Vs Wyoming Cowboys - HD QUALITY",
+            "category": "american football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/San_Jose_State_Spartans_Vs_Wyoming_Cowboys_-_HD_QUALITY.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/San%20Jose%20State%20Spartans%20Vs%20Wyoming%20Cowboys.jpg"
+        },
+        {
+            "id": 37,
+            "title": "San Jose State Spartans Vs Wyoming Cowboys - SERVER + TV",
+            "category": "american football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/San_Jose_State_Spartans_Vs_Wyoming_Cowboys_-_SERVER_+_TV.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/San%20Jose%20State%20Spartans%20Vs%20Wyoming%20Cowboys.jpg"
+        },
+        {
+            "id": 38,
+            "title": "Washington Huskies Vs Iowa Hawkeyes - FOX1 SPORTS FHD",
+            "category": "american football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Washington_Huskies_Vs_Iowa_Hawkeyes_-_FOX1_SPORTS_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Huskies%20Vs%20Iowa%20Hawkeyes.jpg"
+        },
+        {
+            "id": 39,
+            "title": "Washington Huskies Vs Iowa Hawkeyes - HD QUALITY",
+            "category": "american football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Washington_Huskies_Vs_Iowa_Hawkeyes_-_HD_QUALITY.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Huskies%20Vs%20Iowa%20Hawkeyes.jpg"
+        },
+        {
+            "id": 40,
+            "title": "Washington Huskies Vs Iowa Hawkeyes - SERVER + TV",
+            "category": "american football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Washington_Huskies_Vs_Iowa_Hawkeyes_-_SERVER_+_TV.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Huskies%20Vs%20Iowa%20Hawkeyes.jpg"
+        },
+        {
+            "id": 41,
+            "title": "Utah State Aggies Vs Washington State Cougars - HD QUALITY",
+            "category": "american football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Utah_State_Aggies_Vs_Washington_State_Cougars_-_HD_QUALITY.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20State%20Aggies%20Vs%20Washington%20State%20Cougars.jpg"
+        },
+        {
+            "id": 42,
+            "title": "Utah State Aggies Vs Washington State Cougars - SERVER + TV",
+            "category": "american football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Utah_State_Aggies_Vs_Washington_State_Cougars_-_SERVER_+_TV.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20State%20Aggies%20Vs%20Washington%20State%20Cougars.jpg"
+        },
+        {
+            "id": 43,
+            "title": "Puebla W Vs Club León - LOW QUALITY (USE VPN)",
+            "category": "football",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Puebla_W_Vs_Club_León_-_LOW_QUALITY_(USE_VPN).jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Puebla%20W%20Vs%20Club%20Le%C3%B3n.jpg"
+        },
+        {
+            "id": 44,
+            "title": "Castillo Vs Zarate - Link 1",
+            "category": "boxing",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Castillo_Vs_Zarate_-_Link_1.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Castillo%20Vs%20Zarate.jpg"
+        },
+        {
+            "id": 45,
+            "title": "Muniz Vs Hintz - Link 1",
+            "category": "boxing",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Muniz_Vs_Hintz_-_Link_1.jpg",
+            "logo": "n"
+        },
+        {
+            "id": 46,
             "title": "MotorGP Vs MotorGP - FANCODE FHD",
             "category": "motorsports",
             "stream_url": "",
@@ -257,7 +369,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/MotorGP%20Vs%20MotorGP.jpg"
         },
         {
-            "id": 33,
+            "id": 47,
             "title": "MotorGP Vs MotorGP - TNT2 SPORTS FHD",
             "category": "motorsports",
             "stream_url": "",
@@ -265,23 +377,15 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/MotorGP%20Vs%20MotorGP.jpg"
         },
         {
-            "id": 34,
-            "title": "MotorGP Vs MotorGP - FOX2 SPORTS FHD",
+            "id": 48,
+            "title": "MotorGP Vs MotorGP - ESPN1 ARGENTINA FHD",
             "category": "motorsports",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/MotorGP_Vs_MotorGP_-_FOX2_SPORTS_FHD.jpg",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/MotorGP_Vs_MotorGP_-_ESPN1_ARGENTINA_FHD.jpg",
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/MotorGP%20Vs%20MotorGP.jpg"
         },
         {
-            "id": 35,
-            "title": "MotorGP Vs MotorGP - SPOTV FHD",
-            "category": "motorsports",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/MotorGP_Vs_MotorGP_-_SPOTV_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/MotorGP%20Vs%20MotorGP.jpg"
-        },
-        {
-            "id": 36,
+            "id": 49,
             "title": "MotorGP Vs MotorGP - MotoGP FHD",
             "category": "motorsports",
             "stream_url": "",
@@ -289,287 +393,167 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/MotorGP%20Vs%20MotorGP.jpg"
         },
         {
-            "id": 37,
-            "title": "MotorGP Vs MotorGP - LOW QUALITY (USE VPN)",
+            "id": 50,
+            "title": "MotorGP Vs MotorGP - FOX2 SPORTS FHD",
             "category": "motorsports",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/MotorGP_Vs_MotorGP_-_LOW_QUALITY_(USE_VPN).jpg",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/MotorGP_Vs_MotorGP_-_FOX2_SPORTS_FHD.jpg",
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/MotorGP%20Vs%20MotorGP.jpg"
         },
         {
-            "id": 38,
-            "title": "Moura Vs Fornarino - STREAM TV + HD",
-            "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Moura_Vs_Fornarino_-_STREAM_TV_+_HD.jpg",
-            "logo": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark"
-        },
-        {
-            "id": 39,
-            "title": "St. Louis Blues Vs San Jose Sharks - HD QUALITY NHL",
-            "category": "hockey",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/St._Louis_Blues_Vs_San_Jose_Sharks_-_HD_QUALITY_NHL.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/St.%20Louis%20Blues%20Vs%20San%20Jose%20Sharks.jpg"
-        },
-        {
-            "id": 40,
-            "title": "St. Louis Blues Vs San Jose Sharks - SPORTSCAST + FHD",
-            "category": "hockey",
-            "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f4982712-d2f5-47a9-95f9-6e246fe98a1b/master.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/St._Louis_Blues_Vs_San_Jose_Sharks_-_SPORTSCAST_+_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/St.%20Louis%20Blues%20Vs%20San%20Jose%20Sharks.jpg"
-        },
-        {
-            "id": 41,
-            "title": "St. Louis Blues Vs San Jose Sharks - STREAM TV + HD",
-            "category": "hockey",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/St._Louis_Blues_Vs_San_Jose_Sharks_-_STREAM_TV_+_HD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/St.%20Louis%20Blues%20Vs%20San%20Jose%20Sharks.jpg"
-        },
-        {
-            "id": 42,
-            "title": "St. Louis Blues Vs San Jose Sharks - HD QUALITY",
-            "category": "hockey",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/St._Louis_Blues_Vs_San_Jose_Sharks_-_HD_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/St.%20Louis%20Blues%20Vs%20San%20Jose%20Sharks.jpg"
-        },
-        {
-            "id": 43,
-            "title": "New York Islanders Vs Chicago Blackhawks - HD QUALITY",
-            "category": "hockey",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/New_York_Islanders_Vs_Chicago_Blackhawks_-_HD_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Islanders%20Vs%20Chicago%20Blackhawks.jpg"
-        },
-        {
-            "id": 44,
-            "title": "New York Islanders Vs Chicago Blackhawks - SPORTSCAST + FHD",
-            "category": "hockey",
-            "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/51981c96-93cc-49c6-b9ad-ed7cb0a051a2/master.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/New_York_Islanders_Vs_Chicago_Blackhawks_-_SPORTSCAST_+_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Islanders%20Vs%20Chicago%20Blackhawks.jpg"
-        },
-        {
-            "id": 45,
-            "title": "New York Islanders Vs Chicago Blackhawks - STREAM TV + HD",
-            "category": "hockey",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/New_York_Islanders_Vs_Chicago_Blackhawks_-_STREAM_TV_+_HD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Islanders%20Vs%20Chicago%20Blackhawks.jpg"
-        },
-        {
-            "id": 46,
-            "title": "New York Islanders Vs Chicago Blackhawks - HD QUALITY",
-            "category": "hockey",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/New_York_Islanders_Vs_Chicago_Blackhawks_-_HD_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Islanders%20Vs%20Chicago%20Blackhawks.jpg"
-        },
-        {
-            "id": 47,
-            "title": "Boston Bruins Vs Utah Mammoth - PREMIER1 SPORTS FHD",
-            "category": "hockey",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Boston_Bruins_Vs_Utah_Mammoth_-_PREMIER1_SPORTS_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Boston%20Bruins%20Vs%20Utah%20Mammoth.jpg"
-        },
-        {
-            "id": 48,
-            "title": "Boston Bruins Vs Utah Mammoth - HD QUALITY",
-            "category": "hockey",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Boston_Bruins_Vs_Utah_Mammoth_-_HD_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Boston%20Bruins%20Vs%20Utah%20Mammoth.jpg"
-        },
-        {
-            "id": 49,
-            "title": "Boston Bruins Vs Utah Mammoth - SPORTSCAST + FHD",
-            "category": "hockey",
-            "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5ba0d0cf-1902-4eed-b563-8edfe1b6c134/master.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Boston_Bruins_Vs_Utah_Mammoth_-_SPORTSCAST_+_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Boston%20Bruins%20Vs%20Utah%20Mammoth.jpg"
-        },
-        {
-            "id": 50,
-            "title": "Boston Bruins Vs Utah Mammoth - STREAM TV + HD",
-            "category": "hockey",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Boston_Bruins_Vs_Utah_Mammoth_-_STREAM_TV_+_HD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Boston%20Bruins%20Vs%20Utah%20Mammoth.jpg"
-        },
-        {
             "id": 51,
-            "title": "Boston Bruins Vs Utah Mammoth - HD QUALITY 2",
-            "category": "hockey",
+            "title": "MotorGP Vs MotorGP - SPOTV FHD",
+            "category": "motorsports",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Boston_Bruins_Vs_Utah_Mammoth_-_HD_QUALITY_2.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Boston%20Bruins%20Vs%20Utah%20Mammoth.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/MotorGP_Vs_MotorGP_-_SPOTV_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/MotorGP%20Vs%20MotorGP.jpg"
         },
         {
             "id": 52,
-            "title": "Tampa Bay Lightning Vs Minnesota Wild - HD QUALITY NHL",
-            "category": "hockey",
+            "title": "SmackDown Vs SmackDown - HD QUALITY",
+            "category": "boxing",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Tampa_Bay_Lightning_Vs_Minnesota_Wild_-_HD_QUALITY_NHL.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tampa%20Bay%20Lightning%20Vs%20Minnesota%20Wild.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown_-_HD_QUALITY.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 53,
-            "title": "Tampa Bay Lightning Vs Minnesota Wild - SPORTSCAST + FHD",
-            "category": "hockey",
-            "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/acf9002c-5d37-4c6c-b795-d5684387b9e4/master.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Tampa_Bay_Lightning_Vs_Minnesota_Wild_-_SPORTSCAST_+_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tampa%20Bay%20Lightning%20Vs%20Minnesota%20Wild.jpg"
+            "title": "SmackDown Vs SmackDown - HD STREAM",
+            "category": "boxing",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown_-_HD_STREAM.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 54,
-            "title": "Tampa Bay Lightning Vs Minnesota Wild - STREAM TV + HD",
-            "category": "hockey",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Tampa_Bay_Lightning_Vs_Minnesota_Wild_-_STREAM_TV_+_HD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tampa%20Bay%20Lightning%20Vs%20Minnesota%20Wild.jpg"
+            "title": "SmackDown Vs SmackDown - WWE LIVE FHD4",
+            "category": "boxing",
+            "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown_-_WWE_LIVE_FHD4.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 55,
-            "title": "Tampa Bay Lightning Vs Minnesota Wild - HD QUALITY",
-            "category": "hockey",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Tampa_Bay_Lightning_Vs_Minnesota_Wild_-_HD_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tampa%20Bay%20Lightning%20Vs%20Minnesota%20Wild.jpg"
+            "title": "SmackDown Vs SmackDown - STREAM HD QUALITY",
+            "category": "boxing",
+            "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown_-_STREAM_HD_QUALITY.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 56,
-            "title": "BOXING EVENTO Vs BOXING EVENTO - HD QUALITY",
+            "title": "SmackDown Vs SmackDown - HD QUALITY SMK",
             "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/BOXING_EVENTO_Vs_BOXING_EVENTO_-_HD_QUALITY.jpg",
-            "logo": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark"
+            "stream_url": "https://plex.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown_-_HD_QUALITY_SMK.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 57,
-            "title": "BOXING EVENTO Vs BOXING EVENTO - QUALITY (USE VPN)",
+            "title": "SmackDown Vs SmackDown - HD SERVER",
             "category": "boxing",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/BOXING_EVENTO_Vs_BOXING_EVENTO_-_QUALITY_(USE_VPN).jpg",
-            "logo": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown_-_HD_SERVER.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 58,
-            "title": "Dallas Cowboys Vs Tampa Bay Buccaneers - MAIN BROAD CAST FHD",
-            "category": "american football",
+            "title": "SmackDown Vs SmackDown - HD STREAMING",
+            "category": "boxing",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Dallas_Cowboys_Vs_Tampa_Bay_Buccaneers_-_MAIN_BROAD_CAST_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Dallas%20Cowboys%20Vs%20Tampa%20Bay%20Buccaneers.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown_-_HD_STREAMING.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 59,
-            "title": "Dallas Cowboys Vs Tampa Bay Buccaneers - ESPANOL + FHD",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Dallas_Cowboys_Vs_Tampa_Bay_Buccaneers_-_ESPANOL_+_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Dallas%20Cowboys%20Vs%20Tampa%20Bay%20Buccaneers.jpg"
+            "title": "SmackDown Vs SmackDown - SmackDown HD",
+            "category": "boxing",
+            "stream_url": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown_-_SmackDown_HD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 60,
-            "title": "Dallas Cowboys Vs Tampa Bay Buccaneers - TSN1 SPORTS FHD",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Dallas_Cowboys_Vs_Tampa_Bay_Buccaneers_-_TSN1_SPORTS_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Dallas%20Cowboys%20Vs%20Tampa%20Bay%20Buccaneers.jpg"
+            "title": "SmackDown Vs SmackDown - WWE LIVE FHD5",
+            "category": "boxing",
+            "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown_-_WWE_LIVE_FHD5.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 61,
-            "title": "Dallas Cowboys Vs Tampa Bay Buccaneers - TSN3 SPORTS FHD",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Dallas_Cowboys_Vs_Tampa_Bay_Buccaneers_-_TSN3_SPORTS_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Dallas%20Cowboys%20Vs%20Tampa%20Bay%20Buccaneers.jpg"
+            "title": "SmackDown Vs SmackDown - WWE LIVE FHD6",
+            "category": "boxing",
+            "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown_-_WWE_LIVE_FHD6.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 62,
-            "title": "Dallas Cowboys Vs Tampa Bay Buccaneers - ESPN5 ARGENTINA FHD",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Dallas_Cowboys_Vs_Tampa_Bay_Buccaneers_-_ESPN5_ARGENTINA_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Dallas%20Cowboys%20Vs%20Tampa%20Bay%20Buccaneers.jpg"
+            "title": "SmackDown Vs SmackDown - SPORT CAST FHD5",
+            "category": "boxing",
+            "stream_url": "https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown_-_SPORT_CAST_FHD5.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 63,
-            "title": "Dallas Cowboys Vs Tampa Bay Buccaneers - NFL BACKUP+ SERVER",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Dallas_Cowboys_Vs_Tampa_Bay_Buccaneers_-_NFL_BACKUP+_SERVER.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Dallas%20Cowboys%20Vs%20Tampa%20Bay%20Buccaneers.jpg"
+            "title": "SmackDown Vs SmackDown - WWE LIVE FHD1",
+            "category": "boxing",
+            "stream_url": "https://acumen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown_-_WWE_LIVE_FHD1.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 64,
-            "title": "Dallas Cowboys Vs Tampa Bay Buccaneers - NFL SERVER HD + 3",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Dallas_Cowboys_Vs_Tampa_Bay_Buccaneers_-_NFL_SERVER_HD_+_3.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Dallas%20Cowboys%20Vs%20Tampa%20Bay%20Buccaneers.jpg"
+            "title": "SmackDown Vs SmackDown - WWE SMACKDOWN 5",
+            "category": "boxing",
+            "stream_url": "https://serendipity.loreofeldenring.site/dailymotion/live/playlist/5.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown_-_WWE_SMACKDOWN_5.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 65,
-            "title": "Dallas Cowboys Vs Tampa Bay Buccaneers - NFL SERVER HD + 1",
-            "category": "american football",
+            "title": "SmackDown Vs SmackDown - USA TV (US VPN)",
+            "category": "boxing",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Dallas_Cowboys_Vs_Tampa_Bay_Buccaneers_-_NFL_SERVER_HD_+_1.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Dallas%20Cowboys%20Vs%20Tampa%20Bay%20Buccaneers.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/SmackDown_Vs_SmackDown_-_USA_TV_(US_VPN).jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SmackDown%20Vs%20SmackDown.jpg"
         },
         {
             "id": 66,
-            "title": "Dallas Cowboys Vs Tampa Bay Buccaneers - NFL SERVER HD + 2",
-            "category": "american football",
+            "title": "BKFC EVENTO Vs BKFC EVENTO - Link 1",
+            "category": "boxing",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Dallas_Cowboys_Vs_Tampa_Bay_Buccaneers_-_NFL_SERVER_HD_+_2.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Dallas%20Cowboys%20Vs%20Tampa%20Bay%20Buccaneers.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/BKFC_EVENTO_Vs_BKFC_EVENTO_-_Link_1.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/BKFC%20EVENTO%20Vs%20BKFC%20EVENTO.jpg"
         },
         {
             "id": 67,
-            "title": "Dallas Cowboys Vs Tampa Bay Buccaneers - SERVER + TV",
-            "category": "american football",
+            "title": "NASCAR CUP SERIES Vs NASCAR CUP SERIES - HD QUALITY",
+            "category": "motorsports",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Dallas_Cowboys_Vs_Tampa_Bay_Buccaneers_-_SERVER_+_TV.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Dallas%20Cowboys%20Vs%20Tampa%20Bay%20Buccaneers.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/NASCAR_CUP_SERIES_Vs_NASCAR_CUP_SERIES_-_HD_QUALITY.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NASCAR%20CUP%20SERIES%20Vs%20NASCAR%20CUP%20SERIES.jpg"
         },
         {
             "id": 68,
-            "title": "Dallas Cowboys Vs Tampa Bay Buccaneers - NFL SERVER",
-            "category": "american football",
-            "stream_url": "http://162.251.160.53:8089/BUCvsCOWandddd/index.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Dallas_Cowboys_Vs_Tampa_Bay_Buccaneers_-_NFL_SERVER.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Dallas%20Cowboys%20Vs%20Tampa%20Bay%20Buccaneers.jpg"
+            "title": "NASCAR CUP SERIES Vs NASCAR CUP SERIES - FOX2 SPORTS FHD",
+            "category": "motorsports",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/NASCAR_CUP_SERIES_Vs_NASCAR_CUP_SERIES_-_FOX2_SPORTS_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NASCAR%20CUP%20SERIES%20Vs%20NASCAR%20CUP%20SERIES.jpg"
         },
         {
             "id": 69,
-            "title": "Dallas Cowboys Vs Tampa Bay Buccaneers - HD QUALITY",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Dallas_Cowboys_Vs_Tampa_Bay_Buccaneers_-_HD_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Dallas%20Cowboys%20Vs%20Tampa%20Bay%20Buccaneers.jpg"
+            "title": "NASCAR CUP SERIES Vs NASCAR CUP SERIES - USA NETWROK HD",
+            "category": "motorsports",
+            "stream_url": "https://tmaxapp.site/8wirwjs76erftg/usanetwodfgsdfsark.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/NASCAR_CUP_SERIES_Vs_NASCAR_CUP_SERIES_-_USA_NETWROK_HD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NASCAR%20CUP%20SERIES%20Vs%20NASCAR%20CUP%20SERIES.jpg"
         },
         {
             "id": 70,
-            "title": "Dallas Cowboys Vs Tampa Bay Buccaneers - QUALITY (USE VPN)",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Dallas_Cowboys_Vs_Tampa_Bay_Buccaneers_-_QUALITY_(USE_VPN).jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Dallas%20Cowboys%20Vs%20Tampa%20Bay%20Buccaneers.jpg"
-        },
-        {
-            "id": 71,
-            "title": "Dallas Cowboys Vs Tampa Bay Buccaneers - HD QUALITY (USE VPN)",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Dallas_Cowboys_Vs_Tampa_Bay_Buccaneers_-_HD_QUALITY_(USE_VPN).jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Dallas%20Cowboys%20Vs%20Tampa%20Bay%20Buccaneers.jpg"
-        },
-        {
-            "id": 72,
             "title": "SPORTS LIVE Vs SPORTS LIVE - NFL SERVER FHD",
             "category": "other",
             "stream_url": "",
@@ -577,12 +561,12 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SPORTS%20LIVE%20Vs%20SPORTS%20LIVE.jpg"
         },
         {
-            "id": 73,
-            "title": "Australia Women Vs Bangladesh Women - WILLOW SPORTS HD",
-            "category": "cricket",
+            "id": 71,
+            "title": "Port Adelaide Power Vs West Coast Eagles - TNT1UK SPORTS FHD",
+            "category": "aussie rules",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Australia_Women_Vs_Bangladesh_Women_-_WILLOW_SPORTS_HD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Australia%20Women%20Vs%20Bangladesh%20Women.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Port_Adelaide_Power_Vs_West_Coast_Eagles_-_TNT1UK_SPORTS_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Port%20Adelaide%20Power%20Vs%20West%20Coast%20Eagles.jpg"
         }
     ]
 }
