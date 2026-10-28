@@ -2,302 +2,222 @@
     "channels": [
         {
             "id": 1,
-            "title": "Santa Fe Vs Bucaramanga - LOW QUALITY (USE VPN)",
-            "category": "football",
+            "title": "Tampa Bay Rays Vs Milwaukee Brewers - TNT1UK SPORTS FHD",
+            "category": "baseball",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Santa_Fe_Vs_Bucaramanga_-_LOW_QUALITY_(USE_VPN).jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Santa%20Fe%20Vs%20Bucaramanga.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Tampa_Bay_Rays_Vs_Milwaukee_Brewers_-_TNT1UK_SPORTS_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tampa%20Bay%20Rays%20Vs%20Milwaukee%20Brewers.jpg"
         },
         {
             "id": 2,
-            "title": "Denver Nuggets Vs Golden State Warriors - HD QUALITY NBA",
-            "category": "basketball",
+            "title": "Tampa Bay Rays Vs Milwaukee Brewers - FOX DEPORTES FHD",
+            "category": "baseball",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Denver_Nuggets_Vs_Golden_State_Warriors_-_HD_QUALITY_NBA.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Nuggets%20Vs%20Golden%20State%20Warriors.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Tampa_Bay_Rays_Vs_Milwaukee_Brewers_-_FOX_DEPORTES_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tampa%20Bay%20Rays%20Vs%20Milwaukee%20Brewers.jpg"
         },
         {
             "id": 3,
-            "title": "Denver Nuggets Vs Golden State Warriors - LOW QUALITY (USE VPN)",
-            "category": "basketball",
+            "title": "Tampa Bay Rays Vs Milwaukee Brewers - HD QUALITY 1",
+            "category": "baseball",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Denver_Nuggets_Vs_Golden_State_Warriors_-_LOW_QUALITY_(USE_VPN).jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Nuggets%20Vs%20Golden%20State%20Warriors.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Tampa_Bay_Rays_Vs_Milwaukee_Brewers_-_HD_QUALITY_1.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tampa%20Bay%20Rays%20Vs%20Milwaukee%20Brewers.jpg"
         },
         {
             "id": 4,
-            "title": "Denver Nuggets Vs Golden State Warriors - HD QUALITY",
-            "category": "basketball",
+            "title": "Tampa Bay Rays Vs Milwaukee Brewers - HD QUALITY 2",
+            "category": "baseball",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Denver_Nuggets_Vs_Golden_State_Warriors_-_HD_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Nuggets%20Vs%20Golden%20State%20Warriors.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Tampa_Bay_Rays_Vs_Milwaukee_Brewers_-_HD_QUALITY_2.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tampa%20Bay%20Rays%20Vs%20Milwaukee%20Brewers.jpg"
         },
         {
             "id": 5,
-            "title": "Utah Jazz Vs Memphis Grizzlies - HD QUALITY NBA",
-            "category": "basketball",
+            "title": "Tampa Bay Rays Vs Milwaukee Brewers - LOW QUALITY (USE VPN)",
+            "category": "baseball",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Utah_Jazz_Vs_Memphis_Grizzlies_-_HD_QUALITY_NBA.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Jazz%20Vs%20Memphis%20Grizzlies.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Tampa_Bay_Rays_Vs_Milwaukee_Brewers_-_LOW_QUALITY_(USE_VPN).jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tampa%20Bay%20Rays%20Vs%20Milwaukee%20Brewers.jpg"
         },
         {
             "id": 6,
-            "title": "Utah Jazz Vs Memphis Grizzlies - LOW QUALITY (USE VPN)",
-            "category": "basketball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Utah_Jazz_Vs_Memphis_Grizzlies_-_LOW_QUALITY_(USE_VPN).jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Jazz%20Vs%20Memphis%20Grizzlies.jpg"
+            "title": "WWE NXT Vs WWE NXT - WWE TV4 + HD",
+            "category": "boxing",
+            "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/WWE_NXT_Vs_WWE_NXT_-_WWE_TV4_+_HD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20NXT%20Vs%20WWE%20NXT.jpg"
         },
         {
             "id": 7,
-            "title": "Utah Jazz Vs Memphis Grizzlies - HD QUALITY",
-            "category": "basketball",
+            "title": "WWE NXT Vs WWE NXT - Sport3 Tv BR FHD",
+            "category": "boxing",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Utah_Jazz_Vs_Memphis_Grizzlies_-_HD_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Jazz%20Vs%20Memphis%20Grizzlies.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/WWE_NXT_Vs_WWE_NXT_-_Sport3_Tv_BR_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20NXT%20Vs%20WWE%20NXT.jpg"
         },
         {
             "id": 8,
-            "title": "Houston Rockets Vs Atlanta Hawks - TV + QUALITY",
-            "category": "basketball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Houston_Rockets_Vs_Atlanta_Hawks_-_TV_+_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Houston%20Rockets%20Vs%20Atlanta%20Hawks.jpg"
+            "title": "WWE NXT Vs WWE NXT - WWE LIVE HD",
+            "category": "boxing",
+            "stream_url": "https://admin2.formaturamaxi.com.br/wwe.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/WWE_NXT_Vs_WWE_NXT_-_WWE_LIVE_HD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20NXT%20Vs%20WWE%20NXT.jpg"
         },
         {
             "id": 9,
-            "title": "Houston Rockets Vs Atlanta Hawks - LOW QUALITY (USE VPN)",
-            "category": "basketball",
+            "title": "WWE NXT Vs WWE NXT - LOW QUALITY (USE VPN)",
+            "category": "boxing",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Houston_Rockets_Vs_Atlanta_Hawks_-_LOW_QUALITY_(USE_VPN).jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Houston%20Rockets%20Vs%20Atlanta%20Hawks.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/WWE_NXT_Vs_WWE_NXT_-_LOW_QUALITY_(USE_VPN).jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20NXT%20Vs%20WWE%20NXT.jpg"
         },
         {
             "id": 10,
-            "title": "Houston Rockets Vs Atlanta Hawks - HD QUALITY",
-            "category": "basketball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Houston_Rockets_Vs_Atlanta_Hawks_-_HD_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Houston%20Rockets%20Vs%20Atlanta%20Hawks.jpg"
+            "title": "WWE NXT Vs WWE NXT - WWE TV5 + HD",
+            "category": "boxing",
+            "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/WWE_NXT_Vs_WWE_NXT_-_WWE_TV5_+_HD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20NXT%20Vs%20WWE%20NXT.jpg"
         },
         {
             "id": 11,
-            "title": "Golden State Valkyries Vs Atlanta Dream - TSN5 SPORTS FHD",
-            "category": "basketball",
+            "title": "WWE NXT Vs WWE NXT - LOW QUALITY (USE VPN)",
+            "category": "boxing",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Golden_State_Valkyries_Vs_Atlanta_Dream_-_TSN5_SPORTS_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Golden%20State%20Valkyries%20Vs%20Atlanta%20Dream.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/WWE_NXT_Vs_WWE_NXT_-_LOW_QUALITY_(USE_VPN).jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20NXT%20Vs%20WWE%20NXT.jpg"
         },
         {
             "id": 12,
-            "title": "Golden State Valkyries Vs Atlanta Dream - TV + QUALITY",
-            "category": "basketball",
+            "title": "Junior Vs Boyacá Chicó - LOW QUALITY (USE VPN)",
+            "category": "football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Golden_State_Valkyries_Vs_Atlanta_Dream_-_TV_+_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Golden%20State%20Valkyries%20Vs%20Atlanta%20Dream.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Junior_Vs_Boyacá_Chicó_-_LOW_QUALITY_(USE_VPN).jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Junior%20Vs%20Boyac%C3%A1%20Chic%C3%B3.jpg"
         },
         {
             "id": 13,
-            "title": "Golden State Valkyries Vs Atlanta Dream - HD QUALITY",
+            "title": "Los Angeles Lakers Vs Portland Trail Blazers - NBA FHD",
             "category": "basketball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Golden_State_Valkyries_Vs_Atlanta_Dream_-_HD_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Golden%20State%20Valkyries%20Vs%20Atlanta%20Dream.jpg"
+            "stream_url": "https://vix.cdnfan.site/event/nba4.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Los_Angeles_Lakers_Vs_Portland_Trail_Blazers_-_NBA_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Los%20Angeles%20Lakers%20Vs%20Portland%20Trail%20Blazers.jpg"
         },
         {
             "id": 14,
-            "title": "Golden State Valkyries Vs Atlanta Dream - HD QUALITY 4",
+            "title": "Los Angeles Lakers Vs Portland Trail Blazers - LOW QUALITY (USE VPN)",
             "category": "basketball",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Golden_State_Valkyries_Vs_Atlanta_Dream_-_HD_QUALITY_4.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Golden%20State%20Valkyries%20Vs%20Atlanta%20Dream.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Los_Angeles_Lakers_Vs_Portland_Trail_Blazers_-_LOW_QUALITY_(USE_VPN).jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Los%20Angeles%20Lakers%20Vs%20Portland%20Trail%20Blazers.jpg"
         },
         {
             "id": 15,
-            "title": "Golden State Valkyries Vs Atlanta Dream - LOW QUALITY (USE VPN)",
-            "category": "basketball",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Golden_State_Valkyries_Vs_Atlanta_Dream_-_LOW_QUALITY_(USE_VPN).jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Golden%20State%20Valkyries%20Vs%20Atlanta%20Dream.jpg"
+            "title": "Utah Mammoth Vs Minnesota Wild - NHL HD",
+            "category": "hockey",
+            "stream_url": "https://vix.cdnfan.site/event/nhl8.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Utah_Mammoth_Vs_Minnesota_Wild_-_NHL_HD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Mammoth%20Vs%20Minnesota%20Wild.jpg"
         },
         {
             "id": 16,
-            "title": "Edmonton Oilers Vs Detroit Red Wings - TV + QUALITY",
+            "title": "Utah Mammoth Vs Minnesota Wild - SPORTSCAST FHD",
             "category": "hockey",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Edmonton_Oilers_Vs_Detroit_Red_Wings_-_TV_+_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Edmonton%20Oilers%20Vs%20Detroit%20Red%20Wings.jpg"
+            "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a11b1dc9-eb27-4766-8000-6a9e40758175/master.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Utah_Mammoth_Vs_Minnesota_Wild_-_SPORTSCAST_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Mammoth%20Vs%20Minnesota%20Wild.jpg"
         },
         {
             "id": 17,
-            "title": "Edmonton Oilers Vs Detroit Red Wings - SPORTSCAST",
+            "title": "Anaheim Ducks Vs Vancouver Canucks - NHL HD",
             "category": "hockey",
-            "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/dfbb8d17-042a-4372-8be2-8cca5e2b40af/master.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Edmonton_Oilers_Vs_Detroit_Red_Wings_-_SPORTSCAST.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Edmonton%20Oilers%20Vs%20Detroit%20Red%20Wings.jpg"
+            "stream_url": "https://vix.cdnfan.site/event/nhl10.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Anaheim_Ducks_Vs_Vancouver_Canucks_-_NHL_HD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Anaheim%20Ducks%20Vs%20Vancouver%20Canucks.jpg"
         },
         {
             "id": 18,
-            "title": "Edmonton Oilers Vs Detroit Red Wings - HD QUALITY",
+            "title": "Anaheim Ducks Vs Vancouver Canucks - SPORTSCAST",
             "category": "hockey",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Edmonton_Oilers_Vs_Detroit_Red_Wings_-_HD_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Edmonton%20Oilers%20Vs%20Detroit%20Red%20Wings.jpg"
+            "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/48637341-f903-44be-b068-8bb37c4ed61d/master.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Anaheim_Ducks_Vs_Vancouver_Canucks_-_SPORTSCAST.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Anaheim%20Ducks%20Vs%20Vancouver%20Canucks.jpg"
         },
         {
             "id": 19,
-            "title": "Calgary Flames Vs Toronto Maple Leafs - TV + QUALITY",
+            "title": "Vegas Golden Knights Vs Ottawa Senators - TSN5 SPORTS FHD",
             "category": "hockey",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Calgary_Flames_Vs_Toronto_Maple_Leafs_-_TV_+_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Calgary%20Flames%20Vs%20Toronto%20Maple%20Leafs.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Vegas_Golden_Knights_Vs_Ottawa_Senators_-_TSN5_SPORTS_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Vegas%20Golden%20Knights%20Vs%20Ottawa%20Senators.jpg"
         },
         {
             "id": 20,
-            "title": "Calgary Flames Vs Toronto Maple Leafs - SPORTSCAST",
+            "title": "Vegas Golden Knights Vs Ottawa Senators - NHL HD",
             "category": "hockey",
-            "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e62295d7-ae7a-4ddb-853f-250c7dcd47cd/master.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Calgary_Flames_Vs_Toronto_Maple_Leafs_-_SPORTSCAST.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Calgary%20Flames%20Vs%20Toronto%20Maple%20Leafs.jpg"
+            "stream_url": "https://vix.cdnfan.site/event/nhl9.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Vegas_Golden_Knights_Vs_Ottawa_Senators_-_NHL_HD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Vegas%20Golden%20Knights%20Vs%20Ottawa%20Senators.jpg"
         },
         {
             "id": 21,
-            "title": "Calgary Flames Vs Toronto Maple Leafs - HD QUALITY",
+            "title": "Vegas Golden Knights Vs Ottawa Senators - SPORTSCAST FHD",
             "category": "hockey",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Calgary_Flames_Vs_Toronto_Maple_Leafs_-_HD_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Calgary%20Flames%20Vs%20Toronto%20Maple%20Leafs.jpg"
+            "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b7c20b1d-9dfc-4d17-9faa-f005e020c483/master.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Vegas_Golden_Knights_Vs_Ottawa_Senators_-_SPORTSCAST_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Vegas%20Golden%20Knights%20Vs%20Ottawa%20Senators.jpg"
         },
         {
             "id": 22,
-            "title": "Philadelphia Eagles Vs Dallas Cowboys - TSN3 SPORTS FHD",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Philadelphia_Eagles_Vs_Dallas_Cowboys_-_TSN3_SPORTS_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Philadelphia%20Eagles%20Vs%20Dallas%20Cowboys.jpg"
+            "title": "San Jose Sharks Vs Buffalo Sabres - NHL HD",
+            "category": "hockey",
+            "stream_url": "https://vix.cdnfan.site/event/nhl11.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/San_Jose_Sharks_Vs_Buffalo_Sabres_-_NHL_HD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/San%20Jose%20Sharks%20Vs%20Buffalo%20Sabres.jpg"
         },
         {
             "id": 23,
-            "title": "Philadelphia Eagles Vs Dallas Cowboys - TSN4 SPORTS FHD",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Philadelphia_Eagles_Vs_Dallas_Cowboys_-_TSN4_SPORTS_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Philadelphia%20Eagles%20Vs%20Dallas%20Cowboys.jpg"
+            "title": "San Jose Sharks Vs Buffalo Sabres - SPORTSCAST FHD",
+            "category": "hockey",
+            "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/08367306-7691-434e-b6e1-e7d47dc3dbc3/master.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/San_Jose_Sharks_Vs_Buffalo_Sabres_-_SPORTSCAST_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/San%20Jose%20Sharks%20Vs%20Buffalo%20Sabres.jpg"
         },
         {
             "id": 24,
-            "title": "Philadelphia Eagles Vs Dallas Cowboys - TSN1 SPORTS FHD",
+            "title": "Missouri State Bears Vs Sam Houston State Bearkats - STREAM TV + HD",
             "category": "american football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Philadelphia_Eagles_Vs_Dallas_Cowboys_-_TSN1_SPORTS_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Philadelphia%20Eagles%20Vs%20Dallas%20Cowboys.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Missouri_State_Bears_Vs_Sam_Houston_State_Bearkats_-_STREAM_TV_+_HD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Missouri%20State%20Bears%20Vs%20Sam%20Houston%20State%20Bearkats.jpg"
         },
         {
             "id": 25,
-            "title": "Philadelphia Eagles Vs Dallas Cowboys - SPORTV2 BR FHD",
+            "title": "Missouri State Bears Vs Sam Houston State Bearkats - LOW QUALITY (USE VPN)",
             "category": "american football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Philadelphia_Eagles_Vs_Dallas_Cowboys_-_SPORTV2_BR_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Philadelphia%20Eagles%20Vs%20Dallas%20Cowboys.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Missouri_State_Bears_Vs_Sam_Houston_State_Bearkats_-_LOW_QUALITY_(USE_VPN).jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Missouri%20State%20Bears%20Vs%20Sam%20Houston%20State%20Bearkats.jpg"
         },
         {
             "id": 26,
-            "title": "Philadelphia Eagles Vs Dallas Cowboys - NBC SPORTS FHD",
-            "category": "american football",
+            "title": "Alianza FC Vs CD Marathon - CBS SPORTS FHD",
+            "category": "football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Philadelphia_Eagles_Vs_Dallas_Cowboys_-_NBC_SPORTS_FHD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Philadelphia%20Eagles%20Vs%20Dallas%20Cowboys.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Alianza_FC_Vs_CD_Marathon_-_CBS_SPORTS_FHD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Alianza%20FC%20Vs%20CD%20Marathon.jpg"
         },
         {
             "id": 27,
-            "title": "Philadelphia Eagles Vs Dallas Cowboys - NFL STREAM HD",
-            "category": "american football",
+            "title": "Alianza FC Vs CD Marathon - LOW QUALITY (USE VPN)",
+            "category": "football",
             "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Philadelphia_Eagles_Vs_Dallas_Cowboys_-_NFL_STREAM_HD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Philadelphia%20Eagles%20Vs%20Dallas%20Cowboys.jpg"
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Alianza_FC_Vs_CD_Marathon_-_LOW_QUALITY_(USE_VPN).jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Alianza%20FC%20Vs%20CD%20Marathon.jpg"
         },
         {
             "id": 28,
-            "title": "Philadelphia Eagles Vs Dallas Cowboys - MANNING SERVER",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Philadelphia_Eagles_Vs_Dallas_Cowboys_-_MANNING_SERVER.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Philadelphia%20Eagles%20Vs%20Dallas%20Cowboys.jpg"
-        },
-        {
-            "id": 29,
-            "title": "Philadelphia Eagles Vs Dallas Cowboys - NFL BACKUP",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Philadelphia_Eagles_Vs_Dallas_Cowboys_-_NFL_BACKUP.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Philadelphia%20Eagles%20Vs%20Dallas%20Cowboys.jpg"
-        },
-        {
-            "id": 30,
-            "title": "Philadelphia Eagles Vs Dallas Cowboys - LOW QUALITY (USE VPN)",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Philadelphia_Eagles_Vs_Dallas_Cowboys_-_LOW_QUALITY_(USE_VPN).jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Philadelphia%20Eagles%20Vs%20Dallas%20Cowboys.jpg"
-        },
-        {
-            "id": 31,
-            "title": "Philadelphia Eagles Vs Dallas Cowboys - 2.LOW QUALITY (USE VPN)",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Philadelphia_Eagles_Vs_Dallas_Cowboys_-_2.LOW_QUALITY_(USE_VPN).jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Philadelphia%20Eagles%20Vs%20Dallas%20Cowboys.jpg"
-        },
-        {
-            "id": 32,
-            "title": "Philadelphia Eagles Vs Dallas Cowboys - HD QUALITY",
-            "category": "american football",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Philadelphia_Eagles_Vs_Dallas_Cowboys_-_HD_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Philadelphia%20Eagles%20Vs%20Dallas%20Cowboys.jpg"
-        },
-        {
-            "id": 33,
-            "title": "Monday Night RAW Vs Monday Night RAW - HD QUALITY",
-            "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Monday_Night_RAW_Vs_Monday_Night_RAW_-_HD_QUALITY.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW.jpg"
-        },
-        {
-            "id": 34,
-            "title": "Monday Night RAW Vs Monday Night RAW - HD TIME + WWE",
-            "category": "boxing",
-            "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Monday_Night_RAW_Vs_Monday_Night_RAW_-_HD_TIME_+_WWE.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW.jpg"
-        },
-        {
-            "id": 35,
-            "title": "Monday Night RAW Vs Monday Night RAW - LOW QUALITY (USE VPN)",
-            "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Monday_Night_RAW_Vs_Monday_Night_RAW_-_LOW_QUALITY_(USE_VPN).jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW.jpg"
-        },
-        {
-            "id": 36,
-            "title": "Monday Night RAW Vs Monday Night RAW - WWE HD",
-            "category": "boxing",
-            "stream_url": "https://admin2.formaturamaxi.com.br/wwe.m3u8",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Monday_Night_RAW_Vs_Monday_Night_RAW_-_WWE_HD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW.jpg"
-        },
-        {
-            "id": 37,
-            "title": "Monday Night RAW Vs Monday Night RAW - WWE HD",
-            "category": "boxing",
-            "stream_url": "",
-            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Monday_Night_RAW_Vs_Monday_Night_RAW_-_WWE_HD.jpg",
-            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW.jpg"
-        },
-        {
-            "id": 38,
             "title": "GOLF EVENTO Vs GOLF EVENTO - Golf Channel - HD",
             "category": "other",
             "stream_url": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8",
@@ -305,7 +225,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/GOLF%20EVENTO%20Vs%20GOLF%20EVENTO.jpg"
         },
         {
-            "id": 39,
+            "id": 29,
             "title": "GOLF EVENTO Vs GOLF EVENTO - Golf PGA Baycurrent Classic (USE VPN)",
             "category": "other",
             "stream_url": "",
@@ -313,7 +233,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/GOLF%20EVENTO%20Vs%20GOLF%20EVENTO.jpg"
         },
         {
-            "id": 40,
+            "id": 30,
             "title": "GOLF EVENTO Vs GOLF EVENTO - Golf Open de Espana",
             "category": "other",
             "stream_url": "",
@@ -321,7 +241,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/GOLF%20EVENTO%20Vs%20GOLF%20EVENTO.jpg"
         },
         {
-            "id": 41,
+            "id": 31,
             "title": "SPORTS LIVE Vs SPORTS LIVE - NFL SERVER FHD",
             "category": "other",
             "stream_url": "",
@@ -329,7 +249,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SPORTS%20LIVE%20Vs%20SPORTS%20LIVE.jpg"
         },
         {
-            "id": 42,
+            "id": 32,
             "title": "TENNIS | EVENTO Vs TENNIS | EVENTO - TSN4 SPORTS FHD",
             "category": "other",
             "stream_url": "",
@@ -337,7 +257,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20Vs%20TENNIS%20%20EVENTO.jpg"
         },
         {
-            "id": 43,
+            "id": 33,
             "title": "TENNIS | EVENTO Vs TENNIS | EVENTO - BeIN2 SPORTS FHD",
             "category": "other",
             "stream_url": "",
@@ -345,7 +265,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20Vs%20TENNIS%20%20EVENTO.jpg"
         },
         {
-            "id": 44,
+            "id": 34,
             "title": "TENNIS | EVENTO Vs TENNIS | EVENTO - TENNIS + SPORTS",
             "category": "other",
             "stream_url": "",
@@ -353,7 +273,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20Vs%20TENNIS%20%20EVENTO.jpg"
         },
         {
-            "id": 45,
+            "id": 35,
             "title": "TENNIS | EVENTO Vs TENNIS | EVENTO - TENNIS + HD",
             "category": "other",
             "stream_url": "",
@@ -361,7 +281,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20Vs%20TENNIS%20%20EVENTO.jpg"
         },
         {
-            "id": 46,
+            "id": 36,
             "title": "TENNIS | EVENTO Vs TENNIS | EVENTO - TENNIS PLUS",
             "category": "other",
             "stream_url": "https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8",
@@ -369,7 +289,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20Vs%20TENNIS%20%20EVENTO.jpg"
         },
         {
-            "id": 47,
+            "id": 37,
             "title": "TENNIS | EVENTO Vs TENNIS | EVENTO - BeIN1 SPORTSFHD",
             "category": "other",
             "stream_url": "",
@@ -377,7 +297,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20Vs%20TENNIS%20%20EVENTO.jpg"
         },
         {
-            "id": 48,
+            "id": 38,
             "title": "TENNIS | EVENTO Vs TENNIS | EVENTO - BEIN3 SPORTS FHD",
             "category": "other",
             "stream_url": "",
@@ -385,7 +305,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20Vs%20TENNIS%20%20EVENTO.jpg"
         },
         {
-            "id": 49,
+            "id": 39,
             "title": "TENNIS | EVENTO Vs TENNIS | EVENTO - TSN3 SPORTS FHD",
             "category": "other",
             "stream_url": "",
@@ -393,7 +313,7 @@
             "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20Vs%20TENNIS%20%20EVENTO.jpg"
         },
         {
-            "id": 50,
+            "id": 40,
             "title": "TENNIS | EVENTO Vs TENNIS | EVENTO - LOW QUALITY (USE VPN)",
             "category": "other",
             "stream_url": "",
