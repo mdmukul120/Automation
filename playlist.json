@@ -1,3 +1,84 @@
 {
-    "channels": []
+    "channels": [
+        {
+            "id": 1,
+            "title": "Denver Nuggets Vs Dallas Mavericks - SKY SPORTS MIX",
+            "category": "basketball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Denver_Nuggets_Vs_Dallas_Mavericks_-_SKY_SPORTS_MIX.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Nuggets%20Vs%20Dallas%20Mavericks.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Denver Nuggets Vs Dallas Mavericks - SKY SPORTS",
+            "category": "basketball",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Denver_Nuggets_Vs_Dallas_Mavericks_-_SKY_SPORTS.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Nuggets%20Vs%20Dallas%20Mavericks.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Denver Nuggets Vs Dallas Mavericks - SM IPTV Live",
+            "category": "basketball",
+            "stream_url": "Ok",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Denver_Nuggets_Vs_Dallas_Mavericks_-_SM_IPTV_Live.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Nuggets%20Vs%20Dallas%20Mavericks.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Denver Nuggets Vs Dallas Mavericks - SM IPTV HD",
+            "category": "basketball",
+            "stream_url": "https://admin2.formaturamaxi.com.br/nba3.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Denver_Nuggets_Vs_Dallas_Mavericks_-_SM_IPTV_HD.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Nuggets%20Vs%20Dallas%20Mavericks.jpg"
+        },
+        {
+            "id": 5,
+            "title": "San Jose Earthquakes Vs Houston Dynamo - SM IPTV Live",
+            "category": "football",
+            "stream_url": "Ok",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/San_Jose_Earthquakes_Vs_Houston_Dynamo_-_SM_IPTV_Live.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/San%20Jose%20Earthquakes%20Vs%20Houston%20Dynamo.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Sri Lanka Women Vs Ireland Women - SKY SPORTS AQ",
+            "category": "cricket",
+            "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sri_Lanka_Women_Vs_Ireland_Women_-_SKY_SPORTS_AQ.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sri%20Lanka%20Women%20Vs%20Ireland%20Women.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Sri Lanka Women Vs Ireland Women - SM IPTV LIVE",
+            "category": "cricket",
+            "stream_url": "",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sri_Lanka_Women_Vs_Ireland_Women_-_SM_IPTV_LIVE.jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sri%20Lanka%20Women%20Vs%20Ireland%20Women.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Sri Lanka Women Vs Ireland Women - MYCO - AQ [PK]",
+            "category": "cricket",
+            "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sri_Lanka_Women_Vs_Ireland_Women_-_MYCO_-_AQ_[PK].jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sri%20Lanka%20Women%20Vs%20Ireland%20Women.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Sri Lanka Women Vs Ireland Women - TAMASHA - AQ [PK]",
+            "category": "cricket",
+            "stream_url": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sri_Lanka_Women_Vs_Ireland_Women_-_TAMASHA_-_AQ_[PK].jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sri%20Lanka%20Women%20Vs%20Ireland%20Women.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Sri Lanka Women Vs Ireland Women - FANCODE AQ [ind]",
+            "category": "cricket",
+            "stream_url": "https://in-mc-vod.fancode.com/mumbai/4250688_english_hls_6c02a53fb925699_1ta-di_h264/index.m3u8",
+            "poster": "https://raw.githubusercontent.com/mdmukul120/Automation/main/bing_posters/Sri_Lanka_Women_Vs_Ireland_Women_-_FANCODE_AQ_[ind].jpg",
+            "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sri%20Lanka%20Women%20Vs%20Ireland%20Women.jpg"
+        }
+    ]
 }
